@@ -1,0 +1,131 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4ab444ce8da68ec44ae4cc1a074a70a2, type: 3}
+  m_Name: Gallery Contents
+  m_EditorClassIdentifier: 
+  _list:
+  - tagName:
+      lang:
+      - text: Equipment
+        fontIndex: 0
+        fontSize: 24
+      - text: "\uC7A5\uBE44"
+        fontIndex: 1
+        fontSize: 24
+    contents:
+    - sprite: {fileID: 7093458890843028584, guid: 69504b6822e275c48811e48114249bcb, type: 3}
+      toolTipIndex: 29
+    - sprite: {fileID: 21300000, guid: d3d55d64b5f9da74db4041220b1ccf2e, type: 3}
+      toolTipIndex: 37
+    _icon: {fileID: 21300000, guid: 121f8f17f9be10541a080188bc0e65ef, type: 3}
+    _label: {fileID: 21300000, guid: ba45e2bbb2d75674096331c543285ffe, type: 3}
+  - tagName:
+      lang:
+      - text: Item
+        fontIndex: 0
+        fontSize: 24
+      - text: "\uC544\uC774\uD15C"
+        fontIndex: 1
+        fontSize: 24
+    contents:
+    - sprite: {fileID: 8833362820976415747, guid: 539a5f94f811cd44dad88f7a7808d4f4, type: 3}
+      toolTipIndex: 26
+    - sprite: {fileID: 3108893948422224819, guid: 539a5f94f811cd44dad88f7a7808d4f4, type: 3}
+      toolTipIndex: 28
+    - sprite: {fileID: 8124401529848198812, guid: c39e4fbad3f37a846933d2971941063d, type: 3}
+      toolTipIndex: 27
+    - sprite: {fileID: 21300000, guid: b06e01d4b969ef849b2ab4af627a9db2, type: 3}
+      toolTipIndex: 38
+    _icon: {fileID: 21300000, guid: c9b62c5a562f0eb4da505bcc2f0b5aee, type: 3}
+    _label: {fileID: 21300000, guid: 08cdbb998d4fe224d8886466e22e4b5e, type: 3}
+  - tagName:
+      lang:
+      - text: Character
+        fontIndex: 0
+        fontSize: 24
+      - text: "\uCE90\uB9AD\uD130"
+        fontIndex: 1
+        fontSize: 24
+    contents:
+    - sprite: {fileID: 21300000, guid: 07714247ec92b1f44a22382c3d06de95, type: 3}
+      toolTipIndex: 31
+    - sprite: {fileID: 21300000, guid: 2813b0864cb780441bfbe7919c387eff, type: 3}
+      toolTipIndex: 32
+    _icon: {fileID: 21300000, guid: dce65ff3084499e4882be1ec73bc9b7f, type: 3}
+    _label: {fileID: 21300000, guid: fc51146b9c920704dbdd7d794c09be88, type: 3}
+  - tagName:
+      lang:
+      - text: Monster
+        fontIndex: 0
+        fontSize: 24
+      - text: "\uBAAC\uC2A4\uD130"
+        fontIndex: 1
+        fontSize: 24
+    contents:
+    - sprite: {fileID: 21300000, guid: 05bca1f32a85d5748808f36219b026e6, type: 3}
+      toolTipIndex: 33
+    - sprite: {fileID: 21300000, guid: 5e929ac691ed93f4b98fccde8d2ee413, type: 3}
+      toolTipIndex: 34
+    - sprite: {fileID: 21300000, guid: 2665d21fc5e9852429a34a5d5a864c35, type: 3}
+      toolTipIndex: 35
+    - sprite: {fileID: 21300000, guid: 637b113918026d2459f5759c0607b790, type: 3}
+      toolTipIndex: 36
+    _icon: {fileID: 21300000, guid: 58485a023b042964c893b9a63cfb3bc3, type: 3}
+    _label: {fileID: 21300000, guid: 41e3a70330ed40e4683ed24c61f99835, type: 3}
+  - tagName:
+      lang:
+      - text: Death
+        fontIndex: 0
+        fontSize: 24
+      - text: "\uB370\uB4DC\uC2E0"
+        fontIndex: 1
+        fontSize: 24
+    contents:
+    - sprite: {fileID: 21300000, guid: 9cf33726c9bf4d54f845bd65d2ca39a8, type: 3}
+      toolTipIndex: 3
+    - sprite: {fileID: 21300000, guid: 253c8a87482ff2d4cb7ca5ff72839e18, type: 3}
+      toolTipIndex: 18
+    - sprite: {fileID: 21300000, guid: 1e39c1de39c346e4aadea5cf94e7f977, type: 3}
+      toolTipIndex: 19
+    - sprite: {fileID: 21300000, guid: 825eb45d40ac9c44b9bf5de79d86c956, type: 3}
+      toolTipIndex: 20
+    - sprite: {fileID: 21300000, guid: 8adfc9e42921ed44f8448536dbbc1caa, type: 3}
+      toolTipIndex: 30
+    _icon: {fileID: 21300000, guid: dad79895e95aa584b8dc97b635b1038b, type: 3}
+    _label: {fileID: 21300000, guid: cca6ded65e3c7f54c97986a8d4c0b34e, type: 3}
+  - tagName:
+      lang:
+      - text: Ending
+        fontIndex: 0
+        fontSize: 24
+      - text: "\uC5D4\uB529"
+        fontIndex: 1
+        fontSize: 24
+    contents:
+    - sprite: {fileID: 21300000, guid: daa47954a9fb5ba408b710924b2e8227, type: 3}
+      toolTipIndex: 39
+    _icon: {fileID: 21300000, guid: 76c11aea2b863ba4d970e091b19a522b, type: 3}
+    _label: {fileID: 21300000, guid: 98991925b3128b14e91ed8300ce05a92, type: 3}
+  - tagName:
+      lang:
+      - text: Map
+        fontIndex: 0
+        fontSize: 24
+      - text: "\uC9C0\uC5ED"
+        fontIndex: 1
+        fontSize: 24
+    contents:
+    - sprite: {fileID: 21300000, guid: 5b34a260d51f79a40a4b483ecabce076, type: 3}
+      toolTipIndex: 40
+    _icon: {fileID: 21300000, guid: 542708a7ed85fbf4ea7153a843ce00bc, type: 3}
+    _label: {fileID: 21300000, guid: 860b4063a25aeaa4eb2391fe26ce0ac9, type: 3}
+  _locked: {fileID: 0}

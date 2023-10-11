@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c9c4bc1e95cfb7a448e716e80b2efe5e, type: 3}
+  m_Name: StageSelect2(Test)
+  m_EditorClassIdentifier: 
+  _selectorIndex: 1
+  _backgroundIndex: -1
+  _storyText:
+    lang:
+    - text: This is Story displays.
+      fontIndex: 0
+      fontSize: 24
+    - text: "\uC5EC\uAE30\uB294 \uC2A4\uD1A0\uB9AC\uB97C \uBCF4\uC5EC\uC90D\uB2C8\uB2E4."
+      fontIndex: 1
+      fontSize: 24
+  _tipText:
+    lang:
+    - text: This is Gameplay tips texts.
+      fontIndex: 0
+      fontSize: 24
+    - text: "\uAC8C\uC784\uC744 \uC2DC\uC791\uD560 \uB54C\uC758 \uD301\uC744 \uBCF4\uC5EC\uC90D\uB2C8\uB2E4."
+      fontIndex: 1
+      fontSize: 24
+  _mainImage: {fileID: 21300000, guid: 05da853a4276de943b48cbd7711a0965, type: 3}
+  _rule1: {fileID: 21300000, guid: 72af91c24f903694cb24a93e670a0276, type: 3}
+  _rule2: {fileID: 21300000, guid: 72af91c24f903694cb24a93e670a0276, type: 3}
+  _rule3: {fileID: 21300000, guid: 72af91c24f903694cb24a93e670a0276, type: 3}
+  _progressBackground: {fileID: 21300000, guid: a27966bd4d2712e4a97700ff423f84d6, type: 3}
+  _progressPointer: {fileID: 21300000, guid: f46d13cd35f7655488215fb32bb6f8e3, type: 3}
+  _progress: 0.5

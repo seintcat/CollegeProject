@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eb08453160893944fbb110aabf1ebf7b, type: 3}
+  m_Name: Block List
+  m_EditorClassIdentifier: 
+  blocks:
+  - name: null
+    isPassable: 1
+    isBlendBlock: 0
+  - name: Ground_B
+    isPassable: 1
+    isBlendBlock: 1
+  - name: Wall_B
+    isPassable: 0
+    isBlendBlock: 1
+  - name: Grass_NB
+    isPassable: 1
+    isBlendBlock: 0
+  - name: Water_B
+    isPassable: 1
+    isBlendBlock: 1
+  - name: Wall_NB
+    isPassable: 0
+    isBlendBlock: 0
+  - name: Stone_B
+    isPassable: 1
+    isBlendBlock: 1
+  - name: Stone_NB
+    isPassable: 1
+    isBlendBlock: 0
+  - name: Grass_B
+    isPassable: 1
+    isBlendBlock: 1
+  - name: Null_B
+    isPassable: 1
+    isBlendBlock: 1
+  - name: Bridge_B
+    isPassable: 1
+    isBlendBlock: 1
+  - name: Road_B
+    isPassable: 1
+    isBlendBlock: 1
+  - name: Road_NB
+    isPassable: 1
+    isBlendBlock: 0
+  - name: Wall_Roof_B
+    isPassable: 0
+    isBlendBlock: 1
+  - name: Fence_B
+    isPassable: 0
+    isBlendBlock: 1
+  - name: Wood_B
+    isPassable: 1
+    isBlendBlock: 1

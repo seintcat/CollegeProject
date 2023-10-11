@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a7c414f7867a80341b4be7c03a2a5976, type: 3}
+  m_Name: Language
+  m_EditorClassIdentifier: 
+  _icons:
+  - {fileID: -7009779777277830716, guid: 4f742445a41d8744db36208c0a795ff1, type: 3}
+  - {fileID: 4838015928695763496, guid: 4f742445a41d8744db36208c0a795ff1, type: 3}
+  _fonts:
+  - _fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+    _usableLanguage: 0100
+  - _fontAsset: {fileID: 11400000, guid: 6993a13c8e8ca3748af55a252bda80ce, type: 2}
+    _usableLanguage: 0101
+  - _fontAsset: {fileID: 11400000, guid: 21821b6f7a536ca41adbfe6d0b10266e, type: 2}
+    _usableLanguage: 0101
+  - _fontAsset: {fileID: 11400000, guid: 69b6dbf8d1232314686acd2e928cf5da, type: 2}
+    _usableLanguage: 0101
+  - _fontAsset: {fileID: 11400000, guid: 4c0f84dc930297a45a191a5b43097b2f, type: 2}
+    _usableLanguage: 0101
+  - _fontAsset: {fileID: 11400000, guid: 5f3f4e94bfa5a7545932424264f448b2, type: 2}
+    _usableLanguage: 0100
+  - _fontAsset: {fileID: 11400000, guid: 8f6fcb95dc2ca6344a701317c36bbbc2, type: 2}
+    _usableLanguage: 0101
+  - _fontAsset: {fileID: 11400000, guid: 95f356958351701488552644f30224d3, type: 2}
+    _usableLanguage: 0101
+  - _fontAsset: {fileID: 11400000, guid: abd1cffb44e350e43b8de242549cacf9, type: 2}
+    _usableLanguage: 0100

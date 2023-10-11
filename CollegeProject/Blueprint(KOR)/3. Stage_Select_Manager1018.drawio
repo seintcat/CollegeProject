@@ -1,0 +1,316 @@
+<mxfile host="app.diagrams.net" modified="2023-10-11T01:35:44.555Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" version="21.6.6" etag="zZSq4GIZh7ODUH7T9k2H" type="device">
+  <diagram id="phe_2cQpslOblPaRMEBI" name="페이지-1">
+    <mxGraphModel dx="2607" dy="1333" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;shadow=1;strokeWidth=2;fillColor=#FFFFFF;strokeColor=#000000;opacity=100.0;gliffyId=568;" parent="1" vertex="1">
+          <mxGeometry x="1330" y="360.8400573730469" width="140" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="3" style="shape=rect;shadow=1;strokeWidth=2;fillColor=#FFFFFF;strokeColor=#000000;opacity=100.0;gliffyId=569;" parent="2" vertex="1">
+          <mxGeometry width="56" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="4" value="&lt;div style=&#39;width: 137.0px;height:auto;word-break: break-word;&#39;&gt;&lt;div align=&quot;center&quot;&gt;&lt;span style=&quot;font-size: 12px; font-family: Arial; white-space: pre-wrap; font-weight: bold; text-decoration: none; line-height: 14px; color: rgb(0, 0, 0);&quot;&gt;유니티 물리적 파일구조 &lt;/span&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;span style=&quot;font-size: 12px; font-family: Arial; white-space: pre-wrap; font-weight: bold; text-decoration: none; line-height: 14px; color: rgb(0, 0, 0);&quot;&gt;Asset&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=rect;shadow=1;strokeWidth=2;fillColor=#FFFFFF;strokeColor=#000000;opacity=100.0;html=1;nl2Br=0;verticalAlign=middle;align=center;spacingLeft=0.0;spacingRight=0;whiteSpace=wrap;gliffyId=570;" parent="2" vertex="1">
+          <mxGeometry y="10" width="140" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="5" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;shadow=1;strokeWidth=2;fillColor=#FFFFFF;strokeColor=#000000;opacity=100.0;gliffyId=559;" parent="1" vertex="1">
+          <mxGeometry x="1530" y="373.3400573730469" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6" style="shape=rect;shadow=1;strokeWidth=2;fillColor=#FFFFFF;strokeColor=#000000;opacity=100.0;gliffyId=560;" parent="5" vertex="1">
+          <mxGeometry width="36" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="7" value="&lt;div style=&#39;width: 87.0px;height:auto;word-break: break-word;&#39;&gt;&lt;div align=&quot;center&quot;&gt;&lt;span style=&quot;font-size: 12px; font-family: Arial; white-space: pre-wrap; font-weight: bold; text-decoration: none; line-height: 14px; color: rgb(0, 0, 0);&quot;&gt;Scripts&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=rect;shadow=1;strokeWidth=2;fillColor=#FFFFFF;strokeColor=#000000;opacity=100.0;html=1;nl2Br=0;verticalAlign=middle;align=center;spacingLeft=0.0;spacingRight=0;whiteSpace=wrap;gliffyId=561;" parent="5" vertex="1">
+          <mxGeometry y="10" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8" style="shape=filledEdge;strokeWidth=2;strokeColor=#000000;fillColor=none;startArrow=none;startFill=0;startSize=6;endArrow=none;endFill=0;endSize=6;rounded=0;gliffyId=558;edgeStyle=orthogonalEdgeStyle;" parent="1" source="5" target="2" edge="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1530" y="398.34002685546875" />
+              <mxPoint x="1470" y="398.34002685546875" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;shadow=1;strokeWidth=2;fillColor=#FFFFFF;strokeColor=#000000;opacity=100.0;gliffyId=535;" parent="1" vertex="1">
+          <mxGeometry x="1649.293701171875" y="323.50701904296875" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="10" style="shape=rect;shadow=1;strokeWidth=2;fillColor=#FFFFFF;strokeColor=#000000;opacity=100.0;gliffyId=536;" parent="9" vertex="1">
+          <mxGeometry width="36" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="11" value="&lt;div style=&#39;width: 87.0px;height:auto;word-break: break-word;&#39;&gt;&lt;div align=&quot;center&quot;&gt;&lt;span style=&quot;font-size: 12px; font-family: Arial; white-space: pre-wrap; font-weight: bold; text-decoration: none; line-height: 14px; color: rgb(0, 0, 0);&quot;&gt;Format&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=rect;shadow=1;strokeWidth=2;fillColor=#FFFFFF;strokeColor=#000000;opacity=100.0;html=1;nl2Br=0;verticalAlign=middle;align=center;spacingLeft=0.0;spacingRight=0;whiteSpace=wrap;gliffyId=537;" parent="9" vertex="1">
+          <mxGeometry y="10" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="12" style="shape=filledEdge;strokeWidth=2;strokeColor=#000000;fillColor=none;startArrow=none;startFill=0;startSize=6;endArrow=none;endFill=0;endSize=6;rounded=0;gliffyId=534;exitX=0.0;exitY=0.5;exitPerimeter=0;entryX=1.0;entryY=0.5;entryPerimeter=0;" parent="1" source="9" target="5" edge="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1649.293701171875" y="348.50701904296875" />
+              <mxPoint x="1620" y="398.3400573730469" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="13" value="&lt;div style=&#39;width: 133.5px;height:auto;word-break: break-word;&#39;&gt;&lt;div align=&quot;center&quot;&gt;&lt;span style=&quot;font-size: 12px; font-family: Arial; white-space: pre-wrap; font-weight: bold; text-decoration: none; line-height: 14px; color: rgb(0, 0, 0);&quot;&gt;StageSelectData.cs &lt;/span&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;span style=&quot;font-size: 12px; font-family: Arial; white-space: pre-wrap; font-weight: bold; text-decoration: none; line-height: 14px; color: rgb(0, 0, 0);&quot;&gt;StageSelects.cs&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=note;size=10;shadow=0;strokeWidth=1;fillColor=#FFFFFF;strokeColor=#000000;opacity=100.0;html=1;nl2Br=0;verticalAlign=middle;align=center;spacingLeft=1.75;spacingRight=0;whiteSpace=wrap;gliffyId=532;" parent="1" vertex="1">
+          <mxGeometry x="1770.3968505859375" y="333.3400573730469" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="14" style="shape=filledEdge;strokeWidth=2;strokeColor=#000000;fillColor=none;startArrow=none;startFill=0;startSize=6;endArrow=none;endFill=0;endSize=6;rounded=0;gliffyId=531;exitX=1.0;exitY=0.5;exitPerimeter=0;entryX=0.0;entryY=0.5;entryPerimeter=0;" parent="1" source="9" target="13" edge="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1739.293701171875" y="348.50701904296875" />
+              <mxPoint x="1770.3968505859375" y="353.3400573730469" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="15" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;shadow=1;strokeWidth=2;fillColor=#FFFFFF;strokeColor=#000000;opacity=100.0;gliffyId=522;" parent="1" vertex="1">
+          <mxGeometry x="1530" y="206.71875" width="90" height="46.5625" as="geometry" />
+        </mxCell>
+        <mxCell id="16" style="shape=rect;shadow=1;strokeWidth=2;fillColor=#FFFFFF;strokeColor=#000000;opacity=100.0;gliffyId=523;" parent="15" vertex="1">
+          <mxGeometry width="36" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="17" value="&lt;div style=&#39;width: 87.0px;height:auto;word-break: break-word;&#39;&gt;&lt;div align=&quot;center&quot;&gt;&lt;span style=&quot;font-size: 12px; font-family: Arial; white-space: pre-wrap; font-weight: bold; text-decoration: none; line-height: 14px; color: rgb(0, 0, 0);&quot;&gt;DataBase&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=rect;shadow=1;strokeWidth=2;fillColor=#FFFFFF;strokeColor=#000000;opacity=100.0;html=1;nl2Br=0;verticalAlign=middle;align=center;spacingLeft=0.0;spacingRight=0;whiteSpace=wrap;gliffyId=524;" parent="15" vertex="1">
+          <mxGeometry y="10" width="90" height="36.5625" as="geometry" />
+        </mxCell>
+        <mxCell id="18" style="shape=filledEdge;strokeWidth=2;strokeColor=#000000;fillColor=none;startArrow=none;startFill=0;startSize=6;endArrow=none;endFill=0;endSize=6;rounded=0;gliffyId=521;exitX=1.0;exitY=0.5;exitPerimeter=0;entryX=0.0;entryY=0.5;entryPerimeter=0;" parent="1" source="2" target="15" edge="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1470" y="398.34002685546875" />
+              <mxPoint x="1530" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="19" value="&lt;div style=&#39;width: 124.11562px;height:auto;word-break: break-word;&#39;&gt;&lt;div align=&quot;center&quot;&gt;&lt;span style=&quot;font-size: 12px; font-family: Arial; white-space: pre-wrap; font-weight: bold; text-decoration: none; line-height: 14px; color: rgb(0, 0, 0);&quot;&gt;Stage Selector List  &lt;/span&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;span style=&quot;font-size: 12px; font-family: Arial; white-space: pre-wrap; font-weight: bold; text-decoration: none; line-height: 14px; color: rgb(0, 0, 0);&quot;&gt;Stage Select Datas&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=note;size=10;shadow=0;strokeWidth=1;fillColor=#FFFFFF;strokeColor=#000000;opacity=100.0;html=1;nl2Br=0;verticalAlign=middle;align=center;spacingLeft=1.6296875;spacingRight=0;whiteSpace=wrap;gliffyId=510;" parent="1" vertex="1">
+          <mxGeometry x="1798.6468505859375" y="123.359375" width="130.375" height="33.28125" as="geometry" />
+        </mxCell>
+        <mxCell id="20" style="shape=filledEdge;strokeWidth=2;strokeColor=#000000;fillColor=none;startArrow=none;startFill=0;startSize=6;endArrow=none;endFill=0;endSize=6;rounded=0;gliffyId=509;edgeStyle=orthogonalEdgeStyle;" parent="1" source="21" target="19" edge="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1769.21875" y="140" />
+              <mxPoint x="1798.64697265625" y="140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="21" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;shadow=1;strokeWidth=2;fillColor=#FFFFFF;strokeColor=#000000;opacity=100.0;gliffyId=471;" parent="1" vertex="1">
+          <mxGeometry x="1679.21875" y="116.71875" width="90" height="46.5625" as="geometry" />
+        </mxCell>
+        <mxCell id="22" style="shape=rect;shadow=1;strokeWidth=2;fillColor=#FFFFFF;strokeColor=#000000;opacity=100.0;gliffyId=472;" parent="21" vertex="1">
+          <mxGeometry width="36" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="23" value="&lt;div style=&#39;width: 87.0px;height:auto;word-break: break-word;&#39;&gt;&lt;div align=&quot;center&quot;&gt;&lt;span style=&quot;font-size: 12px; font-family: Arial; white-space: pre-wrap; font-weight: bold; text-decoration: none; line-height: 14px; color: rgb(0, 0, 0);&quot;&gt;System&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=rect;shadow=1;strokeWidth=2;fillColor=#FFFFFF;strokeColor=#000000;opacity=100.0;html=1;nl2Br=0;verticalAlign=middle;align=center;spacingLeft=0.0;spacingRight=0;whiteSpace=wrap;gliffyId=473;" parent="21" vertex="1">
+          <mxGeometry y="10" width="90" height="36.5625" as="geometry" />
+        </mxCell>
+        <mxCell id="24" style="shape=filledEdge;strokeWidth=2;strokeColor=#000000;fillColor=none;startArrow=none;startFill=0;startSize=6;endArrow=none;endFill=0;endSize=6;rounded=0;gliffyId=470;exitX=0.0;exitY=0.5;exitPerimeter=0;entryX=1.0;entryY=0.5;entryPerimeter=0;" parent="1" source="21" target="15" edge="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1679.21875" y="140" />
+              <mxPoint x="1620" y="230.00001525878906" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="25" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;shadow=1;strokeWidth=2;fillColor=#FFFFFF;strokeColor=#000000;opacity=100.0;gliffyId=886;" parent="1" vertex="1">
+          <mxGeometry x="1530" y="513.3400268554688" width="110.70625305175781" height="46.5625" as="geometry" />
+        </mxCell>
+        <mxCell id="26" style="shape=rect;shadow=1;strokeWidth=2;fillColor=#FFFFFF;strokeColor=#000000;opacity=100.0;gliffyId=887;" parent="25" vertex="1">
+          <mxGeometry width="44.282501220703125" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="27" value="&lt;div style=&#39;width: 107.70625px;height:auto;word-break: break-word;&#39;&gt;&lt;div align=&quot;center&quot;&gt;&lt;span style=&quot;font-size: 12px; font-family: Arial; white-space: pre-wrap; font-weight: bold; text-decoration: none; line-height: 14px; color: rgb(0, 0, 0);&quot;&gt;StreamingAssets&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=rect;shadow=1;strokeWidth=2;fillColor=#FFFFFF;strokeColor=#000000;opacity=100.0;html=1;nl2Br=0;verticalAlign=middle;align=center;spacingLeft=0.0;spacingRight=0;whiteSpace=wrap;gliffyId=888;" parent="25" vertex="1">
+          <mxGeometry y="10" width="110.70625305175781" height="36.5625" as="geometry" />
+        </mxCell>
+        <mxCell id="28" style="shape=filledEdge;strokeWidth=2;strokeColor=#000000;fillColor=none;startArrow=none;startFill=0;startSize=6;endArrow=none;endFill=0;endSize=6;rounded=0;gliffyId=890;exitX=1.0;exitY=0.5;exitPerimeter=0;entryX=0.0;entryY=0.5;entryPerimeter=0;" parent="1" source="2" target="25" edge="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1470" y="398.34002685546875" />
+              <mxPoint x="1530" y="536.6212768554688" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="29" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;shadow=1;strokeWidth=2;fillColor=#FFFFFF;strokeColor=#000000;opacity=100.0;gliffyId=898;" parent="1" vertex="1">
+          <mxGeometry x="1679.21875" y="513.3400268554688" width="90" height="46.5625" as="geometry" />
+        </mxCell>
+        <mxCell id="30" style="shape=rect;shadow=1;strokeWidth=2;fillColor=#FFFFFF;strokeColor=#000000;opacity=100.0;gliffyId=899;" parent="29" vertex="1">
+          <mxGeometry width="36" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="31" value="&lt;div style=&#39;width: 87.0px;height:auto;word-break: break-word;&#39;&gt;&lt;div align=&quot;center&quot;&gt;&lt;span style=&quot;font-size: 12px; font-family: Arial; white-space: pre-wrap; font-weight: bold; text-decoration: none; line-height: 14px; color: rgb(0, 0, 0);&quot;&gt;Maps&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=rect;shadow=1;strokeWidth=2;fillColor=#FFFFFF;strokeColor=#000000;opacity=100.0;html=1;nl2Br=0;verticalAlign=middle;align=center;spacingLeft=0.0;spacingRight=0;whiteSpace=wrap;gliffyId=900;" parent="29" vertex="1">
+          <mxGeometry y="10" width="90" height="36.5625" as="geometry" />
+        </mxCell>
+        <mxCell id="32" style="shape=filledEdge;strokeWidth=2;strokeColor=#000000;fillColor=none;startArrow=none;startFill=0;startSize=6;endArrow=none;endFill=0;endSize=6;rounded=0;gliffyId=902;edgeStyle=orthogonalEdgeStyle;" parent="1" source="25" target="29" edge="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1640.706298828125" y="536.6212768554688" />
+              <mxPoint x="1679.21875" y="536.6212768554688" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="33" value="&lt;div style=&#39;width: 104.25px;height:auto;word-break: break-word;&#39;&gt;&lt;div align=&quot;center&quot;&gt;&lt;span style=&quot;font-size: 12px; font-family: Arial; white-space: pre-wrap; font-weight: bold; text-decoration: none; line-height: 14px; color: rgb(0, 0, 0);&quot;&gt;~~_Struct.json &lt;/span&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;span style=&quot;font-size: 12px; font-family: Arial; white-space: pre-wrap; font-weight: bold; text-decoration: none; line-height: 14px; color: rgb(0, 0, 0);&quot;&gt;~~_Floor.json&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=note;size=10;shadow=0;strokeWidth=1;fillColor=#FFFFFF;strokeColor=#000000;opacity=100.0;html=1;nl2Br=0;verticalAlign=middle;align=center;spacingLeft=1.375;spacingRight=0;whiteSpace=wrap;gliffyId=904;" parent="1" vertex="1">
+          <mxGeometry x="1791" y="519.9025268554688" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="34" style="shape=filledEdge;strokeWidth=2;strokeColor=#000000;fillColor=none;startArrow=none;startFill=0;startSize=6;endArrow=none;endFill=0;endSize=6;rounded=0;gliffyId=906;exitX=1.0;exitY=0.5;exitPerimeter=0;entryX=0.0;entryY=0.5;entryPerimeter=0;" parent="1" source="29" target="33" edge="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1769.21875" y="536.6212768554688" />
+              <mxPoint x="1791" y="539.9025268554688" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="35" style="shape=rect;fillColor=none;strokeColor=none;shadow=1;strokeWidth=2;opacity=100.0;gliffyId=2010;" parent="1" vertex="1">
+          <mxGeometry x="780" y="589.5" width="380" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="36" value="&lt;div style=&#39;width: 377.0px;height:auto;word-break: break-word;&#39;&gt;&lt;div align=&quot;center&quot;&gt;&lt;span style=&quot;font-size: 12px; font-family: Arial; white-space: pre-wrap; font-weight: bold; text-decoration: none; line-height: 14px; color: rgb(0, 0, 0);&quot;&gt;StageSelectManager : MonoBehaviour &lt;/span&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;span style=&quot;font-size: 12px; font-family: Arial; white-space: pre-wrap; font-weight: bold; text-decoration: none; line-height: 14px; color: rgb(0, 0, 0);&quot;&gt;스테이지 선택창 관리자&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=rect;shadow=1;strokeWidth=2;fillColor=#ffffff;strokeColor=#000000;opacity=100.0;html=1;nl2Br=0;verticalAlign=top;align=center;spacingLeft=0.0;spacingRight=0;spacingTop=-5.0;spacingBottom=2;whiteSpace=wrap;gliffyId=2011;" parent="35" vertex="1">
+          <mxGeometry width="380" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="37" value="&lt;div style=&#39;width: 377.0px;height:auto;word-break: break-word;&#39;&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;font-size: 12px; font-family: Arial; white-space: pre-wrap; font-weight: normal; text-decoration: none; line-height: 14px; color: rgb(0, 0, 0);&quot;&gt;selectors = ObjList &lt;/span&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;font-size: 12px; font-family: Arial; white-space: pre-wrap; font-weight: normal; text-decoration: none; line-height: 14px; color: rgb(0, 0, 0);&quot;&gt;프리팹 리스트 &lt;/span&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;font-size: 12px; font-family: Arial; white-space: pre-wrap; font-weight: normal; text-decoration: none; line-height: 14px; color: rgb(0, 0, 0);&quot;&gt; &lt;/span&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;font-size: 12px; font-family: Arial; white-space: pre-wrap; font-weight: normal; text-decoration: none; line-height: 14px; color: rgb(0, 0, 0);&quot;&gt;data = public static StageSelects get &lt;/span&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;font-size: 12px; font-family: Arial; white-space: pre-wrap; font-weight: normal; text-decoration: none; line-height: 14px; color: rgb(0, 0, 0);&quot;&gt;구현 데이터&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=rect;shadow=1;strokeWidth=2;fillColor=#ffffff;strokeColor=#000000;opacity=100.0;html=1;nl2Br=0;verticalAlign=top;align=left;spacingLeft=0.0;spacingRight=0;spacingTop=-5.0;spacingBottom=2;whiteSpace=wrap;gliffyId=2013;" parent="35" vertex="1">
+          <mxGeometry y="32" width="380" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="38" value="&lt;div style=&#39;width: 377.0px;height:auto;word-break: break-word;&#39;&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;font-size: 12px; font-family: Arial; white-space: pre-wrap; font-weight: normal; text-decoration: none; line-height: 14px; color: rgb(0, 0, 0);&quot;&gt;Init() = public void &lt;/span&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;font-size: 12px; font-family: Arial; white-space: pre-wrap; font-weight: normal; text-decoration: none; line-height: 14px; color: rgb(0, 0, 0);&quot;&gt;초기화 함수 &lt;/span&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;font-size: 12px; font-family: Arial; white-space: pre-wrap; font-weight: normal; text-decoration: none; line-height: 14px; color: rgb(0, 0, 0);&quot;&gt; &lt;/span&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;font-size: 12px; font-family: Arial; white-space: pre-wrap; font-weight: normal; text-decoration: none; line-height: 14px; color: rgb(0, 0, 0);&quot;&gt;MakeSelector() = public void &lt;/span&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;font-size: 12px; font-family: Arial; white-space: pre-wrap; font-weight: normal; text-decoration: none; line-height: 14px; color: rgb(0, 0, 0);&quot;&gt;스테이지 정보 표시&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=rect;shadow=1;strokeWidth=2;fillColor=#ffffff;strokeColor=#000000;opacity=100.0;html=1;nl2Br=0;verticalAlign=top;align=left;spacingLeft=0.0;spacingRight=0;spacingTop=-5.0;spacingBottom=2;whiteSpace=wrap;gliffyId=2015;" parent="35" vertex="1">
+          <mxGeometry y="106" width="380" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="39" style="shape=rect;fillColor=none;strokeColor=none;shadow=1;strokeWidth=2;opacity=100.0;gliffyId=2017;" parent="1" vertex="1">
+          <mxGeometry x="190" y="271" width="270" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="40" value="&lt;div style=&#39;width: 267.0px;height:auto;word-break: break-word;&#39;&gt;&lt;div align=&quot;center&quot;&gt;&lt;span style=&quot;font-size: 12px; font-family: Arial; white-space: pre-wrap; font-weight: bold; text-decoration: none; line-height: 14px; color: rgb(0, 0, 0);&quot;&gt;StageSelector : MonoBehaviour &lt;/span&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;span style=&quot;font-size: 12px; font-family: Arial; white-space: pre-wrap; font-weight: bold; text-decoration: none; line-height: 14px; color: rgb(0, 0, 0);&quot;&gt;스테이지 선택 창&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=rect;shadow=1;strokeWidth=2;fillColor=#ffffff;strokeColor=#000000;opacity=100.0;html=1;nl2Br=0;verticalAlign=top;align=center;spacingLeft=0.0;spacingRight=0;spacingTop=-5.0;spacingBottom=2;whiteSpace=wrap;gliffyId=2018;" parent="39" vertex="1">
+          <mxGeometry width="270" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="41" value="&lt;div style=&#39;width: 267.0px;height:auto;word-break: break-word;&#39;&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;font-size: 12px; font-family: Arial; white-space: pre-wrap; font-weight: normal; text-decoration: none; line-height: 14px; color: rgb(0, 0, 0);&quot;&gt;storyText = TextManager  &lt;/span&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;font-size: 12px; font-family: Arial; white-space: pre-wrap; font-weight: normal; text-decoration: none; line-height: 14px; color: rgb(0, 0, 0);&quot;&gt;gameplayText = TextManager  &lt;/span&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;font-size: 12px; font-family: Arial; white-space: pre-wrap; font-weight: normal; text-decoration: none; line-height: 14px; color: rgb(0, 0, 0);&quot;&gt;각 지문 제어용 텍스트매니저 &lt;/span&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;font-size: 12px; font-family: Arial; white-space: pre-wrap; font-weight: normal; text-decoration: none; line-height: 14px; color: rgb(0, 0, 0);&quot;&gt; &lt;/span&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;font-size: 12px; font-family: Arial; white-space: pre-wrap; font-weight: normal; text-decoration: none; line-height: 14px; color: rgb(0, 0, 0);&quot;&gt;progressPointer = GameObject &lt;/span&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;font-size: 12px; font-family: Arial; white-space: pre-wrap; font-weight: normal; text-decoration: none; line-height: 14px; color: rgb(0, 0, 0);&quot;&gt;진행상황 표시지점 &lt;/span&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;font-size: 12px; font-family: Arial; white-space: pre-wrap; font-weight: normal; text-decoration: none; line-height: 14px; color: rgb(0, 0, 0);&quot;&gt; &lt;/span&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;font-size: 12px; font-family: Arial; white-space: pre-wrap; font-weight: normal; text-decoration: none; line-height: 14px; color: rgb(0, 0, 0);&quot;&gt;mainImage = Image &lt;/span&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;font-size: 12px; font-family: Arial; white-space: pre-wrap; font-weight: normal; text-decoration: none; line-height: 14px; color: rgb(0, 0, 0);&quot;&gt;스테이지 선택창 메인 이미지 &lt;/span&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;font-size: 12px; font-family: Arial; white-space: pre-wrap; font-weight: normal; text-decoration: none; line-height: 14px; color: rgb(0, 0, 0);&quot;&gt; &lt;/span&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;font-size: 12px; font-family: Arial; white-space: pre-wrap; font-weight: normal; text-decoration: none; line-height: 14px; color: rgb(0, 0, 0);&quot;&gt;rule1 = Image &lt;/span&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;font-size: 12px; font-family: Arial; white-space: pre-wrap; font-weight: normal; text-decoration: none; line-height: 14px; color: rgb(0, 0, 0);&quot;&gt;rule2 = Image &lt;/span&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;font-size: 12px; font-family: Arial; white-space: pre-wrap; font-weight: normal; text-decoration: none; line-height: 14px; color: rgb(0, 0, 0);&quot;&gt;rule3 = Image &lt;/span&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;font-size: 12px; font-family: Arial; white-space: pre-wrap; font-weight: normal; text-decoration: none; line-height: 14px; color: rgb(0, 0, 0);&quot;&gt;규칙들 이미지 &lt;/span&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;font-size: 12px; font-family: Arial; white-space: pre-wrap; font-weight: normal; text-decoration: none; line-height: 14px; color: rgb(0, 0, 0);&quot;&gt; &lt;/span&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;font-size: 12px; font-family: Arial; white-space: pre-wrap; font-weight: normal; text-decoration: none; line-height: 14px; color: rgb(0, 0, 0);&quot;&gt;progressBackground = Image &lt;/span&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;font-size: 12px; font-family: Arial; white-space: pre-wrap; font-weight: normal; text-decoration: none; line-height: 14px; color: rgb(0, 0, 0);&quot;&gt;진행창 배경 이미지&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=rect;shadow=1;strokeWidth=2;fillColor=#ffffff;strokeColor=#000000;opacity=100.0;html=1;nl2Br=0;verticalAlign=top;align=left;spacingLeft=0.0;spacingRight=0;spacingTop=-5.0;spacingBottom=2;whiteSpace=wrap;gliffyId=2020;" parent="39" vertex="1">
+          <mxGeometry y="32" width="270" height="242" as="geometry" />
+        </mxCell>
+        <mxCell id="42" value="&lt;div style=&#39;width: 267.0px;height:auto;word-break: break-word;&#39;&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;font-size: 12px; font-family: Arial; white-space: pre-wrap; font-weight: normal; text-decoration: none; line-height: 14px; color: rgb(0, 0, 0);&quot;&gt;Init() = public void &lt;/span&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;font-size: 12px; font-family: Arial; white-space: pre-wrap; font-weight: normal; text-decoration: none; line-height: 14px; color: rgb(0, 0, 0);&quot;&gt;초기화 함수 &lt;/span&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;font-size: 12px; font-family: Arial; white-space: pre-wrap; font-weight: normal; text-decoration: none; line-height: 14px; color: rgb(0, 0, 0);&quot;&gt; &lt;/span&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;font-size: 12px; font-family: Arial; white-space: pre-wrap; font-weight: normal; text-decoration: none; line-height: 14px; color: rgb(0, 0, 0);&quot;&gt;BackToMainTitle() = public void &lt;/span&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;font-size: 12px; font-family: Arial; white-space: pre-wrap; font-weight: normal; text-decoration: none; line-height: 14px; color: rgb(0, 0, 0);&quot;&gt;타이틀 화면으로 돌아감 &lt;/span&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;font-size: 12px; font-family: Arial; white-space: pre-wrap; font-weight: normal; text-decoration: none; line-height: 14px; color: rgb(0, 0, 0);&quot;&gt; &lt;/span&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;font-size: 12px; font-family: Arial; white-space: pre-wrap; font-weight: normal; text-decoration: none; line-height: 14px; color: rgb(0, 0, 0);&quot;&gt;GameStart() = public void  &lt;/span&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;font-size: 12px; font-family: Arial; white-space: pre-wrap; font-weight: normal; text-decoration: none; line-height: 14px; color: rgb(0, 0, 0);&quot;&gt;스테이지를 시작하는 메서드&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=rect;shadow=1;strokeWidth=2;fillColor=#ffffff;strokeColor=#000000;opacity=100.0;html=1;nl2Br=0;verticalAlign=top;align=left;spacingLeft=0.0;spacingRight=0;spacingTop=-5.0;spacingBottom=2;whiteSpace=wrap;gliffyId=2022;" parent="39" vertex="1">
+          <mxGeometry y="274" width="270" height="116" as="geometry" />
+        </mxCell>
+        <mxCell id="43" value="&lt;div style=&#39;width: 181.57143px;height:auto;word-break: break-word;&#39;&gt;&lt;div align=&quot;center&quot;&gt;&lt;span style=&quot;font-size: 12px; font-family: Arial; white-space: pre-wrap; font-weight: bold; text-decoration: none; line-height: 14px; color: rgb(0, 0, 0);&quot;&gt;StageSelectorList = ObjList&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=rect;shadow=1;strokeWidth=2;fillColor=#ffffff;strokeColor=#000000;opacity=100.0;html=1;nl2Br=0;verticalAlign=middle;align=center;spacingLeft=2.7142856;spacingRight=0;whiteSpace=wrap;gliffyId=2024;" parent="1" vertex="1">
+          <mxGeometry x="490" y="449.5" width="190" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="44" style="shape=rect;fillColor=none;strokeColor=none;shadow=1;strokeWidth=2;opacity=100.0;gliffyId=2026;" parent="1" vertex="1">
+          <mxGeometry x="202" y="680.5" width="258" height="372" as="geometry" />
+        </mxCell>
+        <mxCell id="45" value="&lt;div style=&#39;width: 255.0px;height:auto;word-break: break-word;&#39;&gt;&lt;div align=&quot;center&quot;&gt;&lt;span style=&quot;font-size: 12px; font-family: Arial; white-space: pre-wrap; font-weight: normal; text-decoration: underline; line-height: 14px; color: rgb(0, 0, 0);&quot;&gt;StageSelectData = ScriptableObject &lt;/span&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;span style=&quot;font-size: 12px; font-family: Arial; white-space: pre-wrap; font-weight: normal; text-decoration: underline; line-height: 14px; color: rgb(0, 0, 0);&quot;&gt;스테이지 선택창 구현 데이터&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=rect;shadow=1;strokeWidth=2;fillColor=#ffffff;strokeColor=#000000;opacity=100.0;html=1;nl2Br=0;verticalAlign=top;align=center;spacingLeft=0.0;spacingRight=0;spacingTop=-5.0;spacingBottom=2;whiteSpace=wrap;gliffyId=2027;" parent="44" vertex="1">
+          <mxGeometry width="258" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="46" value="&lt;div style=&#39;width: 255.0px;height:auto;word-break: break-word;&#39;&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;font-size: 12px; font-family: Arial; white-space: pre-wrap; font-weight: normal; text-decoration: none; line-height: 14px; color: rgb(0, 0, 0);&quot;&gt;selectorIndex = public int  &lt;/span&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;font-size: 12px; font-family: Arial; white-space: pre-wrap; font-weight: normal; text-decoration: none; line-height: 14px; color: rgb(0, 0, 0);&quot;&gt;스테이지 선택창 인덱스 &lt;/span&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;font-size: 12px; font-family: Arial; white-space: pre-wrap; font-weight: normal; text-decoration: none; line-height: 14px; color: rgb(0, 0, 0);&quot;&gt; &lt;/span&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;font-size: 12px; font-family: Arial; white-space: pre-wrap; font-weight: normal; text-decoration: none; line-height: 14px; color: rgb(0, 0, 0);&quot;&gt;storyText = public ContextList &lt;/span&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;font-size: 12px; font-family: Arial; white-space: pre-wrap; font-weight: normal; text-decoration: none; line-height: 14px; color: rgb(0, 0, 0);&quot;&gt;스토리 설명 지문 &lt;/span&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;font-size: 12px; font-family: Arial; white-space: pre-wrap; font-weight: normal; text-decoration: none; line-height: 14px; color: rgb(0, 0, 0);&quot;&gt; &lt;/span&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;font-size: 12px; font-family: Arial; white-space: pre-wrap; font-weight: normal; text-decoration: none; line-height: 14px; color: rgb(0, 0, 0);&quot;&gt;tipText = public ContextList &lt;/span&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;font-size: 12px; font-family: Arial; white-space: pre-wrap; font-weight: normal; text-decoration: none; line-height: 14px; color: rgb(0, 0, 0);&quot;&gt;게임 팁 지문 &lt;/span&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;font-size: 12px; font-family: Arial; white-space: pre-wrap; font-weight: normal; text-decoration: none; line-height: 14px; color: rgb(0, 0, 0);&quot;&gt; &lt;/span&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;font-size: 12px; font-family: Arial; white-space: pre-wrap; font-weight: normal; text-decoration: none; line-height: 14px; color: rgb(0, 0, 0);&quot;&gt;mainImage = public Sprite &lt;/span&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;font-size: 12px; font-family: Arial; white-space: pre-wrap; font-weight: normal; text-decoration: none; line-height: 14px; color: rgb(0, 0, 0);&quot;&gt;스테이지 선택창 메인 이미지 &lt;/span&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;font-size: 12px; font-family: Arial; white-space: pre-wrap; font-weight: normal; text-decoration: none; line-height: 14px; color: rgb(0, 0, 0);&quot;&gt; &lt;/span&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;font-size: 12px; font-family: Arial; white-space: pre-wrap; font-weight: normal; text-decoration: none; line-height: 14px; color: rgb(0, 0, 0);&quot;&gt;rule1 = public Sprite &lt;/span&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;font-size: 12px; font-family: Arial; white-space: pre-wrap; font-weight: normal; text-decoration: none; line-height: 14px; color: rgb(0, 0, 0);&quot;&gt;rule2 = public Sprite &lt;/span&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;font-size: 12px; font-family: Arial; white-space: pre-wrap; font-weight: normal; text-decoration: none; line-height: 14px; color: rgb(0, 0, 0);&quot;&gt;rule3 = public Sprite &lt;/span&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;font-size: 12px; font-family: Arial; white-space: pre-wrap; font-weight: normal; text-decoration: none; line-height: 14px; color: rgb(0, 0, 0);&quot;&gt;규칙들 &amp;gt;&amp;gt; null 가능 &lt;/span&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;font-size: 12px; font-family: Arial; white-space: pre-wrap; font-weight: normal; text-decoration: none; line-height: 14px; color: rgb(0, 0, 0);&quot;&gt; &lt;/span&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;font-size: 12px; font-family: Arial; white-space: pre-wrap; font-weight: normal; text-decoration: none; line-height: 14px; color: rgb(0, 0, 0);&quot;&gt;progressBackground = public Sprite &lt;/span&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;font-size: 12px; font-family: Arial; white-space: pre-wrap; font-weight: normal; text-decoration: none; line-height: 14px; color: rgb(0, 0, 0);&quot;&gt;진행창 배경 &amp;gt;&amp;gt; null 가능 &lt;/span&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;font-size: 12px; font-family: Arial; white-space: pre-wrap; font-weight: normal; text-decoration: none; line-height: 14px; color: rgb(0, 0, 0);&quot;&gt;progressPointer = public Sprite &lt;/span&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;font-size: 12px; font-family: Arial; white-space: pre-wrap; font-weight: normal; text-decoration: none; line-height: 14px; color: rgb(0, 0, 0);&quot;&gt;진행정도 포인터 &amp;gt;&amp;gt; null 가능 &lt;/span&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;font-size: 12px; font-family: Arial; white-space: pre-wrap; font-weight: normal; text-decoration: none; line-height: 14px; color: rgb(0, 0, 0);&quot;&gt; &lt;/span&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;font-size: 12px; font-family: Arial; white-space: pre-wrap; font-weight: normal; text-decoration: none; line-height: 14px; color: rgb(0, 0, 0);&quot;&gt;progress = public float &lt;/span&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;font-size: 12px; font-family: Arial; white-space: pre-wrap; font-weight: normal; text-decoration: none; line-height: 14px; color: rgb(0, 0, 0);&quot;&gt;포인터를 어디에 위치시킬건지 결정&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=rect;shadow=1;strokeWidth=2;fillColor=#ffffff;strokeColor=#000000;opacity=100.0;html=1;nl2Br=0;verticalAlign=top;align=left;spacingLeft=0.0;spacingRight=0;spacingTop=-5.0;spacingBottom=2;whiteSpace=wrap;gliffyId=2029;" parent="44" vertex="1">
+          <mxGeometry y="32" width="258" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="47" style="shape=rect;fillColor=none;strokeColor=none;shadow=1;strokeWidth=2;opacity=100.0;gliffyId=2031;" parent="1" vertex="1">
+          <mxGeometry x="478" y="841.5" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="48" value="&lt;div style=&#39;width: 197.0px;height:auto;word-break: break-word;&#39;&gt;&lt;div align=&quot;center&quot;&gt;&lt;span style=&quot;font-size: 12px; font-family: Arial; white-space: pre-wrap; font-weight: normal; text-decoration: underline; line-height: 14px; color: rgb(0, 0, 0);&quot;&gt;StageSelects = ScriptableObject &lt;/span&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;span style=&quot;font-size: 12px; font-family: Arial; white-space: pre-wrap; font-weight: normal; text-decoration: underline; line-height: 14px; color: rgb(0, 0, 0);&quot;&gt;스테이지 선택 데이터 리스트&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=rect;shadow=1;strokeWidth=2;fillColor=#ffffff;strokeColor=#000000;opacity=100.0;html=1;nl2Br=0;verticalAlign=top;align=center;spacingLeft=0.0;spacingRight=0;spacingTop=-5.0;spacingBottom=2;whiteSpace=wrap;gliffyId=2032;" parent="47" vertex="1">
+          <mxGeometry width="200" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="49" value="&lt;div style=&#39;width: 197.0px;height:auto;word-break: break-word;&#39;&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;font-size: 12px; font-family: Arial; white-space: pre-wrap; font-weight: normal; text-decoration: none; line-height: 14px; color: rgb(0, 0, 0);&quot;&gt;list = public List&amp;lt;StageSelectData&amp;gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=rect;shadow=1;strokeWidth=2;fillColor=#ffffff;strokeColor=#000000;opacity=100.0;html=1;nl2Br=0;verticalAlign=top;align=left;spacingLeft=0.0;spacingRight=0;spacingTop=-5.0;spacingBottom=2;whiteSpace=wrap;gliffyId=2034;" parent="47" vertex="1">
+          <mxGeometry y="32" width="200" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="50" style="shape=filledEdge;strokeWidth=2;strokeColor=#000000;fillColor=none;startArrow=none;startFill=0;startSize=6;endArrow=none;endFill=0;endSize=6;rounded=0;gliffyId=2038;exitX=1.0;exitY=0.5;exitPerimeter=0;entryX=0.0;entryY=0.5;entryPerimeter=0;" parent="1" source="43" target="35" edge="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="680" y="467" />
+              <mxPoint x="780" y="679.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="51" style="shape=filledEdge;strokeWidth=2;strokeColor=#000000;fillColor=none;startArrow=none;startFill=0;startSize=6;endArrow=none;endFill=0;endSize=6;rounded=0;gliffyId=2039;exitX=1.0;exitY=0.5;exitPerimeter=0;entryX=0.0;entryY=0.5;entryPerimeter=0;" parent="1" source="47" target="35" edge="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="678" y="866.5" />
+              <mxPoint x="780" y="679.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="52" style="shape=filledEdge;strokeWidth=2;strokeColor=#000000;fillColor=none;startArrow=none;startFill=0;startSize=6;endArrow=none;endFill=0;endSize=6;rounded=0;gliffyId=2040;edgeStyle=orthogonalEdgeStyle;" parent="1" source="44" target="47" edge="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="460" y="866.5" />
+              <mxPoint x="478" y="866.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="53" style="shape=filledEdge;strokeWidth=2;strokeColor=#000000;fillColor=none;startArrow=none;startFill=0;startSize=6;endArrow=none;endFill=0;endSize=6;rounded=0;gliffyId=2041;exitX=1.0;exitY=0.5;exitPerimeter=0;entryX=0.0;entryY=0.5;entryPerimeter=0;" parent="1" source="39" target="43" edge="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="460" y="466" />
+              <mxPoint x="490" y="467" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="54" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;shadow=1;strokeWidth=2;fillColor=#FFFFFF;strokeColor=#000000;opacity=100.0;gliffyId=2049;" parent="1" vertex="1">
+          <mxGeometry x="1798.6468505859375" y="183.4375" width="110" height="46.5625" as="geometry" />
+        </mxCell>
+        <mxCell id="55" style="shape=rect;shadow=1;strokeWidth=2;fillColor=#FFFFFF;strokeColor=#000000;opacity=100.0;gliffyId=2050;" parent="54" vertex="1">
+          <mxGeometry width="44" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="56" value="&lt;div style=&#39;width: 107.0px;height:auto;word-break: break-word;&#39;&gt;&lt;div align=&quot;center&quot;&gt;&lt;span style=&quot;font-size: 12px; font-family: Arial; white-space: pre-wrap; font-weight: bold; text-decoration: none; line-height: 14px; color: rgb(0, 0, 0);&quot;&gt;StageSelectData&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=rect;shadow=1;strokeWidth=2;fillColor=#FFFFFF;strokeColor=#000000;opacity=100.0;html=1;nl2Br=0;verticalAlign=middle;align=center;spacingLeft=0.0;spacingRight=0;whiteSpace=wrap;gliffyId=2051;" parent="54" vertex="1">
+          <mxGeometry y="10" width="110" height="36.5625" as="geometry" />
+        </mxCell>
+        <mxCell id="57" style="shape=filledEdge;strokeWidth=2;strokeColor=#000000;fillColor=none;startArrow=none;startFill=0;startSize=6;endArrow=none;endFill=0;endSize=6;rounded=0;gliffyId=2053;exitX=1.0;exitY=0.5;exitPerimeter=0;entryX=0.0;entryY=0.5;entryPerimeter=0;" parent="1" source="68" target="54" edge="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1750" y="230" />
+              <mxPoint x="1798.6468505859375" y="206.71875" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="58" style="shape=filledEdge;strokeWidth=2;strokeColor=#000000;fillColor=none;startArrow=none;startFill=0;startSize=6;endArrow=none;endFill=0;endSize=6;rounded=0;gliffyId=2054;edgeStyle=orthogonalEdgeStyle;" parent="1" edge="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="2507.925048828125" y="1532" as="sourcePoint" />
+            <mxPoint x="2507.925048828125" y="1532" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="59" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;shadow=1;strokeWidth=2;fillColor=#FFFFFF;strokeColor=#000000;opacity=100.0;gliffyId=2061;" parent="1" vertex="1">
+          <mxGeometry x="1649.293701171875" y="423.3400573730469" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="60" style="shape=rect;shadow=1;strokeWidth=2;fillColor=#FFFFFF;strokeColor=#000000;opacity=100.0;gliffyId=2062;" parent="59" vertex="1">
+          <mxGeometry width="36" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="61" value="&lt;div style=&#39;width: 87.0px;height:auto;word-break: break-word;&#39;&gt;&lt;div align=&quot;center&quot;&gt;&lt;span style=&quot;font-size: 12px; font-family: Arial; white-space: pre-wrap; font-weight: bold; text-decoration: none; line-height: 14px; color: rgb(0, 0, 0);&quot;&gt;StageSelect&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=rect;shadow=1;strokeWidth=2;fillColor=#FFFFFF;strokeColor=#000000;opacity=100.0;html=1;nl2Br=0;verticalAlign=middle;align=center;spacingLeft=0.0;spacingRight=0;whiteSpace=wrap;gliffyId=2063;" parent="59" vertex="1">
+          <mxGeometry y="10" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="62" style="shape=filledEdge;strokeWidth=2;strokeColor=#000000;fillColor=none;startArrow=none;startFill=0;startSize=6;endArrow=none;endFill=0;endSize=6;rounded=0;gliffyId=2065;exitX=0.0;exitY=0.5;exitPerimeter=0;entryX=1.0;entryY=0.5;entryPerimeter=0;" parent="1" source="59" target="5" edge="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1649.293701171875" y="448.34002685546875" />
+              <mxPoint x="1620" y="398.34002685546875" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="63" value="&lt;div style=&#39;width: 133.0px;height:auto;word-break: break-word;&#39;&gt;&lt;div align=&quot;center&quot;&gt;&lt;span style=&quot;font-size: 12px; font-family: Arial; white-space: pre-wrap; font-weight: bold; text-decoration: none; line-height: 14px; color: rgb(0, 0, 0);&quot;&gt;StageSelector.cs&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=note;size=10;shadow=0;strokeWidth=1;fillColor=#FFFFFF;strokeColor=#000000;opacity=100.0;html=1;nl2Br=0;verticalAlign=middle;align=center;spacingLeft=2.0;spacingRight=0;whiteSpace=wrap;gliffyId=2067;" parent="1" vertex="1">
+          <mxGeometry x="1770.6468505859375" y="429.392333984375" width="140" height="37.8953971862793" as="geometry" />
+        </mxCell>
+        <mxCell id="64" style="shape=filledEdge;strokeWidth=2;strokeColor=#000000;fillColor=none;startArrow=none;startFill=0;startSize=6;endArrow=none;endFill=0;endSize=6;rounded=0;gliffyId=2069;edgeStyle=orthogonalEdgeStyle;" parent="1" source="59" target="63" edge="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1739.293701171875" y="448.3400573730469" />
+              <mxPoint x="1770.6468505859375" y="448.3400573730469" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="65" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;shadow=1;strokeWidth=2;fillColor=#FFFFFF;strokeColor=#000000;opacity=100.0;gliffyId=2148;" parent="1" vertex="1">
+          <mxGeometry x="1798.6468505859375" y="253.28125" width="110" height="46.5625" as="geometry" />
+        </mxCell>
+        <mxCell id="66" style="shape=rect;shadow=1;strokeWidth=2;fillColor=#FFFFFF;strokeColor=#000000;opacity=100.0;gliffyId=2149;" parent="65" vertex="1">
+          <mxGeometry width="44" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="67" value="&lt;div style=&#39;width: 107.0px;height:auto;word-break: break-word;&#39;&gt;&lt;div align=&quot;center&quot;&gt;&lt;span style=&quot;font-size: 12px; font-family: Arial; white-space: pre-wrap; font-weight: bold; text-decoration: none; line-height: 14px; color: rgb(0, 0, 0);&quot;&gt;StageSelector&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=rect;shadow=1;strokeWidth=2;fillColor=#FFFFFF;strokeColor=#000000;opacity=100.0;html=1;nl2Br=0;verticalAlign=middle;align=center;spacingLeft=0.0;spacingRight=0;whiteSpace=wrap;gliffyId=2150;" parent="65" vertex="1">
+          <mxGeometry y="10" width="110" height="36.5625" as="geometry" />
+        </mxCell>
+        <mxCell id="68" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;shadow=1;strokeWidth=2;fillColor=#FFFFFF;strokeColor=#000000;opacity=100.0;gliffyId=2152;" parent="1" vertex="1">
+          <mxGeometry x="1660" y="206.71875" width="90" height="46.5625" as="geometry" />
+        </mxCell>
+        <mxCell id="69" style="shape=rect;shadow=1;strokeWidth=2;fillColor=#FFFFFF;strokeColor=#000000;opacity=100.0;gliffyId=2153;" parent="68" vertex="1">
+          <mxGeometry width="36" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="70" value="&lt;div style=&#39;width: 87.0px;height:auto;word-break: break-word;&#39;&gt;&lt;div align=&quot;center&quot;&gt;&lt;span style=&quot;font-size: 12px; font-family: Arial; white-space: pre-wrap; font-weight: bold; text-decoration: none; line-height: 14px; color: rgb(0, 0, 0);&quot;&gt;StageSelect&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=rect;shadow=1;strokeWidth=2;fillColor=#FFFFFF;strokeColor=#000000;opacity=100.0;html=1;nl2Br=0;verticalAlign=middle;align=center;spacingLeft=0.0;spacingRight=0;whiteSpace=wrap;gliffyId=2154;" parent="68" vertex="1">
+          <mxGeometry y="10" width="90" height="36.5625" as="geometry" />
+        </mxCell>
+        <mxCell id="71" style="shape=filledEdge;strokeWidth=2;strokeColor=#000000;fillColor=none;startArrow=none;startFill=0;startSize=6;endArrow=none;endFill=0;endSize=6;rounded=0;gliffyId=2156;edgeStyle=orthogonalEdgeStyle;" parent="1" source="68" target="15" edge="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1660" y="230" />
+              <mxPoint x="1620" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="72" style="shape=filledEdge;strokeWidth=2;strokeColor=#000000;fillColor=none;startArrow=none;startFill=0;startSize=6;endArrow=none;endFill=0;endSize=6;rounded=0;gliffyId=2158;exitX=0.0;exitY=0.5;exitPerimeter=0;entryX=1.0;entryY=0.5;entryPerimeter=0;" parent="1" source="65" target="68" edge="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1798.6468505859375" y="276.5625" />
+              <mxPoint x="1750" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

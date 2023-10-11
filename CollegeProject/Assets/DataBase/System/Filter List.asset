@@ -1,0 +1,254 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: de70f58e4264123479f0b438a01c4990, type: 3}
+  m_Name: Filter List
+  m_EditorClassIdentifier: 
+  filter:
+  - filterName: BossLaugh
+    _backgroundImage:
+    - {fileID: 21300000, guid: cd135e2db66ef8741a656e85b0d85f33, type: 3}
+    _sound: {fileID: 8300000, guid: 380ca16cbcc48e649be55986c5a1955f, type: 3}
+    _speed: 0.0001
+    _isLoop: 0
+    _isTiled: 0
+    _volume: 0.7
+  - filterName: Walking_road
+    _backgroundImage:
+    - {fileID: 21300000, guid: cd135e2db66ef8741a656e85b0d85f33, type: 3}
+    _sound: {fileID: 8300000, guid: d7b9e0a505e366c4386677588adc2123, type: 3}
+    _speed: 0.0001
+    _isLoop: 1
+    _isTiled: 0
+    _volume: 1
+  - filterName: Warning
+    _backgroundImage:
+    - {fileID: 21300000, guid: cd135e2db66ef8741a656e85b0d85f33, type: 3}
+    _sound: {fileID: 8300000, guid: 692bc6f07bec7ac4eb5e303d6ab1d0a9, type: 3}
+    _speed: 0.0001
+    _isLoop: 0
+    _isTiled: 0
+    _volume: 1
+  - filterName: Door_open
+    _backgroundImage:
+    - {fileID: 21300000, guid: cd135e2db66ef8741a656e85b0d85f33, type: 3}
+    _sound: {fileID: 8300000, guid: 83e6bc703fa3e8f45ae8c52239cf5192, type: 3}
+    _speed: 0.0001
+    _isLoop: 0
+    _isTiled: 0
+    _volume: 1
+  - filterName: Btnsound
+    _backgroundImage: []
+    _sound: {fileID: 8300000, guid: 9f07694a8fab15f4ab23b87e03522f6a, type: 3}
+    _speed: 1
+    _isLoop: 0
+    _isTiled: 0
+    _volume: 1
+  - filterName: Get_item
+    _backgroundImage:
+    - {fileID: 21300000, guid: cd135e2db66ef8741a656e85b0d85f33, type: 3}
+    _sound: {fileID: 8300000, guid: 59ce0276f66f8c9468e3086c48356b76, type: 3}
+    _speed: 0.0001
+    _isLoop: 0
+    _isTiled: 0
+    _volume: 1
+  - filterName: Stage_select
+    _backgroundImage:
+    - {fileID: 21300000, guid: cd135e2db66ef8741a656e85b0d85f33, type: 3}
+    _sound: {fileID: 8300000, guid: 6c8faa60b2dc2c34f8887aa679ea73e5, type: 3}
+    _speed: 0.0001
+    _isLoop: 1
+    _isTiled: 0
+    _volume: 1
+  - filterName: Demon_king
+    _backgroundImage:
+    - {fileID: 21300000, guid: cd135e2db66ef8741a656e85b0d85f33, type: 3}
+    _sound: {fileID: 8300000, guid: da2ad19ebf1997845a90c1390b8641b9, type: 3}
+    _speed: 0.0001
+    _isLoop: 1
+    _isTiled: 0
+    _volume: 1
+  - filterName: Garden
+    _backgroundImage:
+    - {fileID: 21300000, guid: cd135e2db66ef8741a656e85b0d85f33, type: 3}
+    _sound: {fileID: 8300000, guid: 820518ba4bdd03e4ea6123e2c6dd48fc, type: 3}
+    _speed: 0.0001
+    _isLoop: 1
+    _isTiled: 0
+    _volume: 1
+  - filterName: Castle
+    _backgroundImage:
+    - {fileID: 21300000, guid: cd135e2db66ef8741a656e85b0d85f33, type: 3}
+    _sound: {fileID: 8300000, guid: 9edbe8753fc857c4aae7f1d1572c039c, type: 3}
+    _speed: 0.0001
+    _isLoop: 1
+    _isTiled: 0
+    _volume: 1
+  - filterName: Bridge
+    _backgroundImage:
+    - {fileID: 21300000, guid: cd135e2db66ef8741a656e85b0d85f33, type: 3}
+    _sound: {fileID: 8300000, guid: a925ef28987946e4991b5d0e7b062c38, type: 3}
+    _speed: 0.0001
+    _isLoop: 1
+    _isTiled: 0
+    _volume: 1
+  - filterName: Gate
+    _backgroundImage:
+    - {fileID: 21300000, guid: cd135e2db66ef8741a656e85b0d85f33, type: 3}
+    _sound: {fileID: 8300000, guid: 6718490770df00a4894cd45c9ae41e08, type: 3}
+    _speed: 0.0001
+    _isLoop: 1
+    _isTiled: 0
+    _volume: 1
+  - filterName: Slime
+    _backgroundImage:
+    - {fileID: 21300000, guid: cd135e2db66ef8741a656e85b0d85f33, type: 3}
+    _sound: {fileID: 8300000, guid: 247aed5924c081e47881cb6a5cd42b46, type: 3}
+    _speed: 0.0001
+    _isLoop: 1
+    _isTiled: 0
+    _volume: 1
+  - filterName: Get_bone
+    _backgroundImage:
+    - {fileID: 21300000, guid: cd135e2db66ef8741a656e85b0d85f33, type: 3}
+    _sound: {fileID: 8300000, guid: ea6adca4ae811eb42a6d69cb80623855, type: 3}
+    _speed: 0.0001
+    _isLoop: 0
+    _isTiled: 0
+    _volume: 1
+  - filterName: Dead
+    _backgroundImage:
+    - {fileID: 21300000, guid: cd135e2db66ef8741a656e85b0d85f33, type: 3}
+    _sound: {fileID: 8300000, guid: 504a281bc99c3ae45a770a7aebdb8b18, type: 3}
+    _speed: 0.0001
+    _isLoop: 1
+    _isTiled: 0
+    _volume: 1
+  - filterName: WolfHowl
+    _backgroundImage:
+    - {fileID: 21300000, guid: cd135e2db66ef8741a656e85b0d85f33, type: 3}
+    _sound: {fileID: 8300000, guid: 0d84fe5dcb1a8c1459d0a81bd1b70940, type: 3}
+    _speed: 0.0001
+    _isLoop: 0
+    _isTiled: 0
+    _volume: 1
+  - filterName: WolfBreath
+    _backgroundImage:
+    - {fileID: 21300000, guid: cd135e2db66ef8741a656e85b0d85f33, type: 3}
+    _sound: {fileID: 8300000, guid: ec849f4e1c1606b49a6a39a24f9be38f, type: 3}
+    _speed: 0.0001
+    _isLoop: 0
+    _isTiled: 0
+    _volume: 1
+  - filterName: Minotaur_Alert
+    _backgroundImage:
+    - {fileID: 21300000, guid: cd135e2db66ef8741a656e85b0d85f33, type: 3}
+    _sound: {fileID: 8300000, guid: f4219fe52629bc24f94ebd028d2a6f1f, type: 3}
+    _speed: 0.0001
+    _isLoop: 0
+    _isTiled: 0
+    _volume: 0.7
+  - filterName: Minotaur_Attack
+    _backgroundImage:
+    - {fileID: 21300000, guid: cd135e2db66ef8741a656e85b0d85f33, type: 3}
+    _sound: {fileID: 8300000, guid: 201b5e766839cff47a393b62af9590ba, type: 3}
+    _speed: 0.0001
+    _isLoop: 1
+    _isTiled: 0
+    _volume: 1
+  - filterName: Minotaur_Charge
+    _backgroundImage:
+    - {fileID: 21300000, guid: cd135e2db66ef8741a656e85b0d85f33, type: 3}
+    _sound: {fileID: 8300000, guid: b1f99e54350a3514e9186b897efe6e3c, type: 3}
+    _speed: 0.0001
+    _isLoop: 0
+    _isTiled: 0
+    _volume: 1
+  - filterName: Cannon
+    _backgroundImage:
+    - {fileID: 21300000, guid: cd135e2db66ef8741a656e85b0d85f33, type: 3}
+    _sound: {fileID: 8300000, guid: 2caa6355e44bac245af7c6536ac6495a, type: 3}
+    _speed: 0.0001
+    _isLoop: 0
+    _isTiled: 0
+    _volume: 1
+  - filterName: CoinDrop
+    _backgroundImage:
+    - {fileID: 21300000, guid: cd135e2db66ef8741a656e85b0d85f33, type: 3}
+    _sound: {fileID: 8300000, guid: 6dbabc86fed141445b6952dd0dd70f2c, type: 3}
+    _speed: 0.0001
+    _isLoop: 0
+    _isTiled: 0
+    _volume: 1
+  - filterName: LoadOn
+    _backgroundImage:
+    - {fileID: 21300000, guid: cd135e2db66ef8741a656e85b0d85f33, type: 3}
+    _sound: {fileID: 8300000, guid: 238d7e696cb483c4eb9b8b0c6bf909af, type: 3}
+    _speed: 0.0001
+    _isLoop: 0
+    _isTiled: 0
+    _volume: 1
+  - filterName: GetBall
+    _backgroundImage:
+    - {fileID: 21300000, guid: cd135e2db66ef8741a656e85b0d85f33, type: 3}
+    _sound: {fileID: 8300000, guid: 4fab796268e38cb4cba0f58e92f2e14f, type: 3}
+    _speed: 0.0001
+    _isLoop: 0
+    _isTiled: 0
+    _volume: 1
+  - filterName: SlimeAttack
+    _backgroundImage:
+    - {fileID: 21300000, guid: cd135e2db66ef8741a656e85b0d85f33, type: 3}
+    _sound: {fileID: 8300000, guid: 19ea3fffeffb6d64cb24e0c3f137a89c, type: 3}
+    _speed: 0.0001
+    _isLoop: 0
+    _isTiled: 0
+    _volume: 1
+  - filterName: Reaper_Boss
+    _backgroundImage:
+    - {fileID: 21300000, guid: cd135e2db66ef8741a656e85b0d85f33, type: 3}
+    _sound: {fileID: 8300000, guid: 2b93943c7f76bcd4f9991ff11ab81e7f, type: 3}
+    _speed: 0.0001
+    _isLoop: 1
+    _isTiled: 0
+    _volume: 1
+  - filterName: Reaper_Alert
+    _backgroundImage:
+    - {fileID: 21300000, guid: cd135e2db66ef8741a656e85b0d85f33, type: 3}
+    _sound: {fileID: 8300000, guid: 08161ea29c451bb46ac6ba4f487a9047, type: 3}
+    _speed: 0.0001
+    _isLoop: 0
+    _isTiled: 0
+    _volume: 1
+  - filterName: EndDoor
+    _backgroundImage:
+    - {fileID: 21300000, guid: cd135e2db66ef8741a656e85b0d85f33, type: 3}
+    _sound: {fileID: 8300000, guid: 06cc5bbe7b8f8be4aa43b36c00bcd106, type: 3}
+    _speed: 0.0001
+    _isLoop: 0
+    _isTiled: 0
+    _volume: 1
+  - filterName: Helm
+    _backgroundImage:
+    - {fileID: 21300000, guid: cd135e2db66ef8741a656e85b0d85f33, type: 3}
+    _sound: {fileID: 8300000, guid: bd1f8bb9122937d4cb9fc596485ed1c7, type: 3}
+    _speed: 0.0001
+    _isLoop: 0
+    _isTiled: 0
+    _volume: 1
+  - filterName: Helm
+    _backgroundImage:
+    - {fileID: 21300000, guid: cd135e2db66ef8741a656e85b0d85f33, type: 3}
+    _sound: {fileID: 8300000, guid: d45c2fdb4023aeb4c8dbc2e5827db59f, type: 3}
+    _speed: 0.0001
+    _isLoop: 0
+    _isTiled: 0
+    _volume: 1

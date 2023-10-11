@@ -1,0 +1,860 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dffcadea599fa5444a4ceafddbcb5a08, type: 3}
+  m_Name: ToolTip Data List
+  m_EditorClassIdentifier: 
+  list:
+  - _sprites:
+    - {fileID: 21300000, guid: 78139e26f7f4fdd429d0dfd7feda27cd, type: 3}
+    - {fileID: 21300000, guid: 930906a2bc5734047897873f7d2d2374, type: 3}
+    _raitios:
+    - 0
+    - 1.5655738
+    _scale:
+    - {x: 1, y: 1}
+    - {x: 1, y: 1}
+    _context:
+      lang:
+      - text: 'A long time ago...
+
+          peaceful days disappeared by...'
+        fontIndex: 7
+        fontSize: 36
+      - text: "\uD3C9\uD654\uB86D\uB358 \uBA3C \uC61B\uB0A0..."
+        fontIndex: 7
+        fontSize: 36
+    _filterIndex: -1
+    _time: -1
+    _chainIndex: 1
+    _frameIndex: 2
+  - _sprites:
+    - {fileID: 21300000, guid: 78139e26f7f4fdd429d0dfd7feda27cd, type: 3}
+    - {fileID: 21300000, guid: aad2d2dbc43a55c4c8d0faa32dd00bf8, type: 3}
+    _raitios:
+    - 0
+    - 1.565574
+    _scale:
+    - {x: 1, y: 1}
+    - {x: 1, y: 1}
+    _context:
+      lang:
+      - text: The devil army who attacked our world.
+        fontIndex: 7
+        fontSize: 36
+      - text: "\uB9C8\uC655\uAD70\uC740 \uC6B0\uB9AC \uC138\uC0C1\uC744 \uACF5\uACA9\uD574\uC654\uB2E4."
+        fontIndex: 7
+        fontSize: 36
+    _filterIndex: -1
+    _time: -1
+    _chainIndex: 2
+    _frameIndex: 2
+  - _sprites:
+    - {fileID: 21300000, guid: 78139e26f7f4fdd429d0dfd7feda27cd, type: 3}
+    - {fileID: 21300000, guid: e2d3bedcfb776164cade80b79b1a40f7, type: 3}
+    _raitios:
+    - 0
+    - 1.3913044
+    _scale:
+    - {x: 1, y: 1}
+    - {x: 1, y: 1}
+    _context:
+      lang:
+      - text: Humans made a decision to go last attack to recapture the castle that
+          was taken by the demon king.
+        fontIndex: 7
+        fontSize: 36
+      - text: "\uC0AC\uB78C\uB4E4\uC740, \uB9C8\uC655\uC5D0\uAC8C \uBE7C\uC557\uAE34
+          \uC131\uC744 \uB2E4\uC2DC \uD0C8\uD658\uD558\uAE30 \uC704\uD574 \uB9C8\uC9C0\uB9C9
+          \uACF5\uACA9\uC744 \uAC10\uD589\uD558\uC600\uB2E4."
+        fontIndex: 7
+        fontSize: 30
+    _filterIndex: -1
+    _time: -1
+    _chainIndex: -1
+    _frameIndex: 2
+  - _sprites:
+    - {fileID: 0}
+    - {fileID: 21300000, guid: 09112dc9932d96546a6b404a0a42272a, type: 3}
+    _raitios:
+    - 0
+    - 1.777778
+    _scale:
+    - {x: 1, y: 1}
+    - {x: 1, y: 1}
+    _context:
+      lang:
+      - text: Disappear! you mortal!
+        fontIndex: 6
+        fontSize: 60
+      - text: "\uC8FD\uC5B4\uB77C \uD544\uBA78\uC790\uC5EC!"
+        fontIndex: 6
+        fontSize: 60
+    _filterIndex: 0
+    _time: 5
+    _chainIndex: -1
+    _frameIndex: 3
+  - _sprites:
+    - {fileID: 21300000, guid: 78139e26f7f4fdd429d0dfd7feda27cd, type: 3}
+    - {fileID: 21300000, guid: 71c093384f04ba444b3aed4ab856d7a9, type: 3}
+    _raitios:
+    - 0
+    - 1.777778
+    _scale:
+    - {x: 1, y: 1}
+    - {x: 1, y: 1}
+    _context:
+      lang:
+      - text: I ran away from the garden and dangerous wolves.
+        fontIndex: 7
+        fontSize: 36
+      - text: "\uC704\uD5D8\uCC9C\uB9CC\uD55C \uB291\uB300\uB4E4\uC774 \uC788\uB294
+          \uC815\uC6D0\uC744 \uBE60\uC838\uB098\uC654\uB2E4."
+        fontIndex: 7
+        fontSize: 36
+    _filterIndex: 1
+    _time: 6
+    _chainIndex: 5
+    _frameIndex: 2
+  - _sprites:
+    - {fileID: 21300000, guid: 78139e26f7f4fdd429d0dfd7feda27cd, type: 3}
+    - {fileID: 21300000, guid: 71c093384f04ba444b3aed4ab856d7a9, type: 3}
+    _raitios:
+    - 0
+    - 1.777778
+    _scale:
+    - {x: 1, y: 1}
+    - {x: 1, y: 1}
+    _context:
+      lang:
+      - text: The gateway to the outside is quite close.
+        fontIndex: 7
+        fontSize: 36
+      - text: "\uBC14\uAE65\uC73C\uB85C \uD5A5\uD558\uB294 \uAD00\uBB38\uC774 \uCF54\uC55E\uC774\uB2E4."
+        fontIndex: 7
+        fontSize: 36
+    _filterIndex: -1
+    _time: 3
+    _chainIndex: 6
+    _frameIndex: 2
+  - _sprites:
+    - {fileID: 21300000, guid: 78139e26f7f4fdd429d0dfd7feda27cd, type: 3}
+    - {fileID: 21300000, guid: 9b772ad6e6ade9744b353674b1404889, type: 3}
+    _raitios:
+    - 0
+    - 1.777778
+    _scale:
+    - {x: 1, y: 1}
+    - {x: 1, y: 1}
+    _context:
+      lang:
+      - text: ".....?\nIs the sound of hooves and moo?\r"
+        fontIndex: 6
+        fontSize: 36
+      - text: ".....?\n\uBC1C\uAD7D \uC18C\uB9AC\uC640 \uC18C \uC6B8\uC74C\uC18C\uB9AC\uAC00?"
+        fontIndex: 6
+        fontSize: 36
+    _filterIndex: -1
+    _time: 5
+    _chainIndex: -1
+    _frameIndex: 3
+  - _sprites:
+    - {fileID: 21300000, guid: 78139e26f7f4fdd429d0dfd7feda27cd, type: 3}
+    - {fileID: 21300000, guid: 09112dc9932d96546a6b404a0a42272a, type: 3}
+    _raitios:
+    - 0
+    - 1.777778
+    _scale:
+    - {x: 1, y: 1}
+    - {x: 1, y: 1}
+    _context:
+      lang:
+      - text: Warning
+        fontIndex: 8
+        fontSize: 60
+      - text: Warning
+        fontIndex: 8
+        fontSize: 60
+    _filterIndex: 2
+    _time: 3
+    _chainIndex: 8
+    _frameIndex: 4
+  - _sprites:
+    - {fileID: 21300000, guid: 78139e26f7f4fdd429d0dfd7feda27cd, type: 3}
+    - {fileID: 21300000, guid: 09112dc9932d96546a6b404a0a42272a, type: 3}
+    _raitios:
+    - 0
+    - 1.777778
+    _scale:
+    - {x: 1, y: 1}
+    - {x: 1, y: 1}
+    _context:
+      lang:
+      - text: You can't go anymore!
+        fontIndex: 6
+        fontSize: 60
+      - text: "\uB108\uB294 \uB354 \uC774\uC0C1 \uAC08 \uC218 \uC5C6\uB2E4!"
+        fontIndex: 6
+        fontSize: 60
+    _filterIndex: 0
+    _time: 5
+    _chainIndex: -1
+    _frameIndex: 3
+  - _sprites:
+    - {fileID: 21300000, guid: 78139e26f7f4fdd429d0dfd7feda27cd, type: 3}
+    _raitios:
+    - 0
+    _scale:
+    - {x: 1, y: 1}
+    _context:
+      lang:
+      - text: "There is a hole... \nmaybe something round can fit..."
+        fontIndex: 7
+        fontSize: 24
+      - text: "\uB3D9\uADF8\uB780 \uBB34\uC5B8\uAC00\uAC00 \uB4E4\uC5B4\uAC08\uB9CC\uD55C
+          \uD648\uC774 \uC788\uB2E4...."
+        fontIndex: 7
+        fontSize: 24
+    _filterIndex: -1
+    _time: 3
+    _chainIndex: -1
+    _frameIndex: 0
+  - _sprites:
+    - {fileID: 21300000, guid: 78139e26f7f4fdd429d0dfd7feda27cd, type: 3}
+    _raitios:
+    - 0
+    _scale:
+    - {x: 1, y: 1}
+    _context:
+      lang:
+      - text: The gate begins to open!
+        fontIndex: 7
+        fontSize: 36
+      - text: "\uAD73\uAC8C \uB2EB\uD78C \uBB38\uC774 \uC5F4\uB9AC\uAE30 \uC2DC\uC791\uD55C\uB2E4!"
+        fontIndex: 7
+        fontSize: 36
+    _filterIndex: -1
+    _time: 2
+    _chainIndex: -1
+    _frameIndex: 5
+  - _sprites:
+    - {fileID: 21300000, guid: 78139e26f7f4fdd429d0dfd7feda27cd, type: 3}
+    _raitios:
+    - 0
+    _scale:
+    - {x: 1, y: 1}
+    _context:
+      lang:
+      - text: 'Oh...what happened?
+
+          what about the devil king...whoa?!'
+        fontIndex: 7
+        fontSize: 36
+      - text: "\uC73D...\uC5B4\uB5BB\uAC8C \uB41C \uAC70\uC9C0?\n\uB9C8\uC655\uC740
+          \uC5B4\uB5BB\uAC8C...\uC544\uB2C8?!"
+        fontIndex: 7
+        fontSize: 36
+    _filterIndex: -1
+    _time: 5
+    _chainIndex: -1
+    _frameIndex: 5
+  - _sprites:
+    - {fileID: 21300000, guid: 78139e26f7f4fdd429d0dfd7feda27cd, type: 3}
+    - {fileID: 21300000, guid: 4026859f26e660b4aad2a578f144e107, type: 3}
+    _raitios:
+    - 0
+    _scale:
+    - {x: 1, y: 1}
+    - {x: 5, y: 5}
+    _context:
+      lang:
+      - text: The thigh bones in the remains might help.
+        fontIndex: 7
+        fontSize: 24
+      - text: "\uBF08\uBB34\uB364 \uC18D \uB119\uB2E4\uB9AC \uBF08\uAC00 \uB3C4\uC6C0\uC774
+          \uB420 \uAC83 \uAC19\uB2E4."
+        fontIndex: 7
+        fontSize: 24
+    _filterIndex: 13
+    _time: 5
+    _chainIndex: -1
+    _frameIndex: 1
+  - _sprites:
+    - {fileID: 21300000, guid: 78139e26f7f4fdd429d0dfd7feda27cd, type: 3}
+    - {fileID: 21300000, guid: 92690ae213f6d9149bb6409b606b5d48, type: 3}
+    _raitios:
+    - 0
+    - 0.68817204
+    _scale:
+    - {x: 1, y: 1}
+    - {x: 2, y: 2}
+    _context:
+      lang:
+      - text: Are you awake? recruit.
+        fontIndex: 1
+        fontSize: 24
+      - text: "\uC815\uC2E0 \uCC28\uB838\uB294\uAC00? \uC560\uC1A1\uC774."
+        fontIndex: 1
+        fontSize: 24
+    _filterIndex: -1
+    _time: 1.5
+    _chainIndex: 14
+    _frameIndex: 1
+  - _sprites:
+    - {fileID: 21300000, guid: 78139e26f7f4fdd429d0dfd7feda27cd, type: 3}
+    - {fileID: 21300000, guid: 92690ae213f6d9149bb6409b606b5d48, type: 3}
+    _raitios:
+    - 0
+    - 0.68817204
+    _scale:
+    - {x: 1, y: 1}
+    - {x: 2, y: 2}
+    _context:
+      lang:
+      - text: As you can see, the demon king is dead.
+        fontIndex: 1
+        fontSize: 24
+      - text: "\uBCF4\uC774\uB294 \uAC83\uCC98\uB7FC \uB9C8\uC655\uC740 \uC8FD\uC5C8\uB2E4."
+        fontIndex: 1
+        fontSize: 24
+    _filterIndex: -1
+    _time: 1.5
+    _chainIndex: 15
+    _frameIndex: 1
+  - _sprites:
+    - {fileID: 21300000, guid: 78139e26f7f4fdd429d0dfd7feda27cd, type: 3}
+    - {fileID: 21300000, guid: 92690ae213f6d9149bb6409b606b5d48, type: 3}
+    _raitios:
+    - 0
+    - 0.68817204
+    _scale:
+    - {x: 1, y: 1}
+    - {x: 2, y: 2}
+    _context:
+      lang:
+      - text: ...but we're almost about to die, too.
+        fontIndex: 1
+        fontSize: 24
+      - text: "... \uD558\uC9C0\uB9CC \uC6B0\uB9AC\uB3C4 \uAC70\uC758 \uC8FD\uAE30
+          \uBC14\uB85C \uC804\uC774\uC57C."
+        fontIndex: 1
+        fontSize: 24
+    _filterIndex: -1
+    _time: 1.5
+    _chainIndex: 16
+    _frameIndex: 1
+  - _sprites:
+    - {fileID: 21300000, guid: 78139e26f7f4fdd429d0dfd7feda27cd, type: 3}
+    - {fileID: 21300000, guid: 92690ae213f6d9149bb6409b606b5d48, type: 3}
+    _raitios:
+    - 0
+    - 0.68817204
+    _scale:
+    - {x: 1, y: 1}
+    - {x: 2, y: 2}
+    _context:
+      lang:
+      - text: There are still many enemies left, and it is time to escape.
+        fontIndex: 1
+        fontSize: 24
+      - text: "\uC544\uC9C1\uB3C4 \uC801\uC740 \uB9CE\uC774 \uB0A8\uC544\uC788\uACE0,
+          \uC9C0\uAE08\uC740 \uB3C4\uB9DD\uCCD0\uC57C \uD560 \uC2DC\uAC04\uC774\uB2E4."
+        fontIndex: 1
+        fontSize: 24
+    _filterIndex: -1
+    _time: 1.5
+    _chainIndex: 17
+    _frameIndex: 1
+  - _sprites:
+    - {fileID: 21300000, guid: 78139e26f7f4fdd429d0dfd7feda27cd, type: 3}
+    - {fileID: 21300000, guid: 92690ae213f6d9149bb6409b606b5d48, type: 3}
+    _raitios:
+    - 0
+    - 0.68817204
+    _scale:
+    - {x: 1, y: 1}
+    - {x: 2, y: 2}
+    _context:
+      lang:
+      - text: Hurry up! you must  leave before the remaining enemies come.
+        fontIndex: 1
+        fontSize: 24
+      - text: "\uC5B4\uC11C! \uB0A8\uC740 \uC801\uC774 \uC624\uAE30 \uC804\uC5D0
+          \uBE68\uB9AC \uC790\uB9AC\uB97C \uB5A0\uB77C."
+        fontIndex: 1
+        fontSize: 24
+    _filterIndex: -1
+    _time: 2
+    _chainIndex: -1
+    _frameIndex: 1
+  - _sprites:
+    - {fileID: 0}
+    - {fileID: 21300000, guid: 7874c2dbef1df6c46a1f946f17b9f6e8, type: 3}
+    _raitios:
+    - 0
+    - 1.777778
+    _scale:
+    - {x: 1, y: 1}
+    - {x: 1, y: 1}
+    _context:
+      lang:
+      - text: OOZE. OOZE.
+        fontIndex: 8
+        fontSize: 60
+      - text: "\uBCF4\uAE00. \uBCF4\uAE00."
+        fontIndex: 6
+        fontSize: 60
+    _filterIndex: -1
+    _time: 2
+    _chainIndex: -1
+    _frameIndex: 3
+  - _sprites:
+    - {fileID: 0}
+    - {fileID: 21300000, guid: e3d90e71fe9add8418a05235ea279b3f, type: 3}
+    _raitios:
+    - 0
+    - 1.777778
+    _scale:
+    - {x: 1, y: 1}
+    - {x: 1, y: 1}
+    _context:
+      lang:
+      - text: Woof! Woof! Grrr...
+        fontIndex: 8
+        fontSize: 60
+      - text: "\uCEF9! \uCEF9! \uCEF9!"
+        fontIndex: 6
+        fontSize: 60
+    _filterIndex: 16
+    _time: 5
+    _chainIndex: -1
+    _frameIndex: 3
+  - _sprites:
+    - {fileID: 0}
+    - {fileID: 21300000, guid: ddafc6b588cdcee42a544fe1446e771f, type: 3}
+    _raitios:
+    - 0
+    - 1.777778
+    _scale:
+    - {x: 1, y: 1}
+    - {x: 1, y: 1}
+    _context:
+      lang:
+      - text: This is your graveyard!
+        fontIndex: 8
+        fontSize: 60
+      - text: "\uC5EC\uAE30\uAC00 \uB108\uC758 \uBB34\uB364\uC774\uB2E4!"
+        fontIndex: 6
+        fontSize: 60
+    _filterIndex: -1
+    _time: 2
+    _chainIndex: -1
+    _frameIndex: 3
+  - _sprites:
+    - {fileID: 21300000, guid: 78139e26f7f4fdd429d0dfd7feda27cd, type: 3}
+    - {fileID: 21300000, guid: daa47954a9fb5ba408b710924b2e8227, type: 3}
+    _raitios:
+    - 0
+    - 1
+    _scale:
+    - {x: 1, y: 1}
+    - {x: 5, y: 5}
+    _context:
+      lang:
+      - text: 
+        fontIndex: 7
+        fontSize: 24
+      - text: 
+        fontIndex: 7
+        fontSize: 24
+    _filterIndex: -1
+    _time: 1
+    _chainIndex: 22
+    _frameIndex: 0
+  - _sprites:
+    - {fileID: 21300000, guid: 78139e26f7f4fdd429d0dfd7feda27cd, type: 3}
+    - {fileID: 21300000, guid: c70bd052c5c923d4a868093762047b34, type: 3}
+    _raitios:
+    - 0
+    - 1
+    _scale:
+    - {x: 1, y: 1}
+    - {x: 5, y: 5}
+    _context:
+      lang:
+      - text: 
+        fontIndex: 7
+        fontSize: 24
+      - text: 
+        fontIndex: 7
+        fontSize: 24
+    _filterIndex: -1
+    _time: 1
+    _chainIndex: 23
+    _frameIndex: 0
+  - _sprites:
+    - {fileID: 21300000, guid: 78139e26f7f4fdd429d0dfd7feda27cd, type: 3}
+    - {fileID: 21300000, guid: a4bf0492aca0c714fbc3e6b90dc513e8, type: 3}
+    _raitios:
+    - 0
+    - 1
+    _scale:
+    - {x: 1, y: 1}
+    - {x: 5, y: 5}
+    _context:
+      lang:
+      - text: 
+        fontIndex: 7
+        fontSize: 24
+      - text: 
+        fontIndex: 7
+        fontSize: 24
+    _filterIndex: -1
+    _time: 1
+    _chainIndex: 24
+    _frameIndex: 0
+  - _sprites:
+    - {fileID: 21300000, guid: 78139e26f7f4fdd429d0dfd7feda27cd, type: 3}
+    - {fileID: 21300000, guid: 68524a4148e450a47ad846f23430b762, type: 3}
+    _raitios:
+    - 0
+    - 1
+    _scale:
+    - {x: 1, y: 1}
+    - {x: 5, y: 5}
+    _context:
+      lang:
+      - text: "The gate opened. \nNow you can go outside."
+        fontIndex: 7
+        fontSize: 24
+      - text: "\uB300\uBB38\uC774 \uC5F4\uB838\uB2E4. \n\uC774\uC81C \uBC16\uC73C\uB85C
+          \uB098\uAC08 \uC218 \uC788\uB2E4."
+        fontIndex: 7
+        fontSize: 24
+    _filterIndex: -1
+    _time: 3
+    _chainIndex: -1
+    _frameIndex: 0
+  - _sprites:
+    - {fileID: 21300000, guid: 78139e26f7f4fdd429d0dfd7feda27cd, type: 3}
+    - {fileID: 7093458890843028584, guid: 69504b6822e275c48811e48114249bcb, type: 3}
+    _raitios:
+    - 0
+    - 1
+    _scale:
+    - {x: 1, y: 1}
+    - {x: 2, y: 2}
+    _context:
+      lang:
+      - text: "This great helm is \ntoo big for humans.\nIt have some space for horns."
+        fontIndex: 7
+        fontSize: 24
+      - text: "\uC778\uAC04\uC5D0\uAC8C\uB294 \uB108\uBB34 \uD070 \uD22C\uAD6C\uC774\uB2E4.\n\uBFD4\uC774
+          \uB4E4\uC5B4\uAC08 \uACF5\uAC04\uC774 \uC788\uB2E4."
+        fontIndex: 7
+        fontSize: 24
+    _filterIndex: -1
+    _time: 3
+    _chainIndex: -1
+    _frameIndex: 0
+  - _sprites:
+    - {fileID: 21300000, guid: 78139e26f7f4fdd429d0dfd7feda27cd, type: 3}
+    _raitios:
+    - 0
+    _scale:
+    - {x: 1, y: 1}
+    _context:
+      lang:
+      - text: Spoiled potion. The performance is greatly declines.
+        fontIndex: 3
+        fontSize: 36
+      - text: "\uC720\uD1B5\uAE30\uD55C\uC774 \uC9C0\uB09C \uD3EC\uC158. \uC131\uB2A5\uC774
+          \uD06C\uAC8C \uB5A8\uC5B4\uC838 \uC788\uB2E4."
+        fontIndex: 3
+        fontSize: 36
+    _filterIndex: -1
+    _time: 3
+    _chainIndex: -1
+    _frameIndex: 5
+  - _sprites:
+    - {fileID: 21300000, guid: 78139e26f7f4fdd429d0dfd7feda27cd, type: 3}
+    _raitios:
+    - 0
+    _scale:
+    - {x: 1, y: 1}
+    _context:
+      lang:
+      - text: 'The key to the main gate of Demon Castle that separated into pairs.
+
+          Two
+          Minotaurs have this to protect the gate.'
+        fontIndex: 3
+        fontSize: 36
+      - text: "\uBBF8\uB178\uD0C0\uC6B0\uB974\uC2A4 \uBB38\uC9C0\uAE30\uAC00 \uC18C\uC9C0\uD558\uACE0
+          \uC788\uB358 \uB9C8\uC655\uC131 \uC815\uBB38 \uC5F4\uC1E0, \n\uB450 \uC870\uAC01\uC73C\uB85C
+          \uB098\uB220\uC11C \uBCF4\uAD00\uD55C\uB2E4."
+        fontIndex: 3
+        fontSize: 36
+    _filterIndex: -1
+    _time: 3
+    _chainIndex: -1
+    _frameIndex: 5
+  - _sprites:
+    - {fileID: 21300000, guid: 78139e26f7f4fdd429d0dfd7feda27cd, type: 3}
+    _raitios:
+    - 0
+    _scale:
+    - {x: 1, y: 1}
+    _context:
+      lang:
+      - text: Scary wolf's favorite snack.
+        fontIndex: 3
+        fontSize: 36
+      - text: "\uC0AC\uB098\uC6B4 \uB291\uB300\uAC00 \uAC00\uC7A5 \uC88B\uC544\uD558\uB294
+          \uAC04\uC2DD. "
+        fontIndex: 3
+        fontSize: 36
+    _filterIndex: -1
+    _time: 3
+    _chainIndex: -1
+    _frameIndex: 5
+  - _sprites:
+    - {fileID: 21300000, guid: 78139e26f7f4fdd429d0dfd7feda27cd, type: 3}
+    _raitios:
+    - 0
+    _scale:
+    - {x: 1, y: 1}
+    _context:
+      lang:
+      - text: 'The Great Helm of Minotaur''s gatekeeper.
+
+          They take it
+          off during the day because it''s so hot.'
+        fontIndex: 3
+        fontSize: 36
+      - text: "\uBBF8\uB178\uD0C0\uC6B0\uB974\uC2A4 \uBB38\uC9C0\uAE30\uC758 \uD22C\uAD6C,
+          \uB0AE\uC5D0\uB294 \uB354\uC6CC\uC11C \uBC97\uC5B4\uB454\uB2E4."
+        fontIndex: 3
+        fontSize: 36
+    _filterIndex: -1
+    _time: 3
+    _chainIndex: -1
+    _frameIndex: 5
+  - _sprites:
+    - {fileID: 21300000, guid: 78139e26f7f4fdd429d0dfd7feda27cd, type: 3}
+    - {fileID: 21300000, guid: f335d3fc4aaea434185738af76c4f39c, type: 3}
+    _raitios:
+    - 0
+    - 1.777778
+    _scale:
+    - {x: 1, y: 1}
+    - {x: 1, y: 1}
+    _context:
+      lang:
+      - text: Beeeeeeeeeeeeeeep
+        fontIndex: 8
+        fontSize: 60
+      - text: "\uC090------------------"
+        fontIndex: 6
+        fontSize: 60
+    _filterIndex: -1
+    _time: 3
+    _chainIndex: -1
+    _frameIndex: 3
+  - _sprites:
+    - {fileID: 21300000, guid: 78139e26f7f4fdd429d0dfd7feda27cd, type: 3}
+    _raitios:
+    - 0
+    _scale:
+    - {x: 1, y: 1}
+    _context:
+      lang:
+      - text: A squire who survived alone.
+        fontIndex: 3
+        fontSize: 36
+      - text: "\r\uD640\uB85C \uC0B4\uC544\uB0A8\uC740 \uACAC\uC2B5 \uAE30\uC0AC."
+        fontIndex: 3
+        fontSize: 36
+    _filterIndex: -1
+    _time: 3
+    _chainIndex: -1
+    _frameIndex: 5
+  - _sprites:
+    - {fileID: 21300000, guid: 78139e26f7f4fdd429d0dfd7feda27cd, type: 3}
+    _raitios:
+    - 0
+    _scale:
+    - {x: 1, y: 1}
+    _context:
+      lang:
+      - text: High Templar who a man of discretion.
+        fontIndex: 3
+        fontSize: 36
+      - text: "\uC794 \uAC71\uC815\uC774 \uB9CE\uC740 \uB299\uC740 \uC6A9\uBCD1. "
+        fontIndex: 3
+        fontSize: 36
+    _filterIndex: -1
+    _time: 3
+    _chainIndex: -1
+    _frameIndex: 5
+  - _sprites:
+    - {fileID: 21300000, guid: 78139e26f7f4fdd429d0dfd7feda27cd, type: 3}
+    _raitios:
+    - 0
+    _scale:
+    - {x: 1, y: 1}
+    _context:
+      lang:
+      - text: The Reaper, manager of the evil castle. He never misses an enemy he's
+          chased once.
+        fontIndex: 3
+        fontSize: 36
+      - text: "\uB9C8\uC655\uC131\uC758 \uAD00\uB9AC\uC790. \uD55C\uBC88 \uCC3E\uC740
+          \uC801\uC744 \uB193\uCE58\uC9C0 \uC54A\uB294\uB2E4."
+        fontIndex: 3
+        fontSize: 36
+    _filterIndex: -1
+    _time: 3
+    _chainIndex: -1
+    _frameIndex: 5
+  - _sprites:
+    - {fileID: 21300000, guid: 78139e26f7f4fdd429d0dfd7feda27cd, type: 3}
+    _raitios:
+    - 0
+    _scale:
+    - {x: 1, y: 1}
+    _context:
+      lang:
+      - text: Slime in the acid pond. It's dangerous even if it looks cute.
+        fontIndex: 3
+        fontSize: 36
+      - text: "\uC0B0\uC131 \uC5F0\uBABB\uC758 \uC2AC\uB77C\uC784. \uADC0\uC5EC\uC6CC
+          \uBCF4\uC5EC\uB3C4 \uC704\uD5D8\uD558\uB2E4."
+        fontIndex: 3
+        fontSize: 36
+    _filterIndex: -1
+    _time: 3
+    _chainIndex: -1
+    _frameIndex: 5
+  - _sprites:
+    - {fileID: 21300000, guid: 78139e26f7f4fdd429d0dfd7feda27cd, type: 3}
+    _raitios:
+    - 0
+    _scale:
+    - {x: 1, y: 1}
+    _context:
+      lang:
+      - text: Scary wolf. It like thigh bones the most.
+        fontIndex: 3
+        fontSize: 36
+      - text: "\uC0AC\uB098\uC6B4 \uB291\uB300. \uB113\uB2E4\uB9AC \uBF08\uB97C \uAC00\uC7A5
+          \uC88B\uC544\uD55C\uB2E4."
+        fontIndex: 3
+        fontSize: 36
+    _filterIndex: -1
+    _time: 3
+    _chainIndex: -1
+    _frameIndex: 5
+  - _sprites:
+    - {fileID: 21300000, guid: 78139e26f7f4fdd429d0dfd7feda27cd, type: 3}
+    _raitios:
+    - 0
+    _scale:
+    - {x: 1, y: 1}
+    _context:
+      lang:
+      - text: Minotaurs twins. Crush the enemy with a rush.
+        fontIndex: 3
+        fontSize: 36
+      - text: "\uC30D\uB465\uC774 \uBBF8\uB178\uD0C0\uC6B0\uB974\uC2A4. \uB3CC\uC9C4\uC73C\uB85C
+          \uC801\uC744 \uBD84\uC1C4\uD55C\uB2E4."
+        fontIndex: 3
+        fontSize: 36
+    _filterIndex: -1
+    _time: 3
+    _chainIndex: -1
+    _frameIndex: 5
+  - _sprites:
+    - {fileID: 21300000, guid: 78139e26f7f4fdd429d0dfd7feda27cd, type: 3}
+    _raitios:
+    - 0
+    _scale:
+    - {x: 1, y: 1}
+    _context:
+      lang:
+      - text: A special cannon that fires sound bombs.
+        fontIndex: 3
+        fontSize: 36
+      - text: "\uC74C\uD3ED\uD0C4\uC744 \uBC1C\uC0AC\uD558\uB294 \uD2B9\uC81C \uB300\uD3EC."
+        fontIndex: 3
+        fontSize: 36
+    _filterIndex: -1
+    _time: 3
+    _chainIndex: -1
+    _frameIndex: 5
+  - _sprites:
+    - {fileID: 21300000, guid: 78139e26f7f4fdd429d0dfd7feda27cd, type: 3}
+    _raitios:
+    - 0
+    _scale:
+    - {x: 1, y: 1}
+    _context:
+      lang:
+      - text: A bomb used to  threaten. It's dangerous to hear it up close.
+        fontIndex: 3
+        fontSize: 36
+      - text: "\uC704\uD611\uC744 \uC54C\uB9AC\uB294 \uC6A9\uB3C4\uB85C \uC0AC\uC6A9\uD558\uB294
+          \uD3ED\uD0C4. \uAC00\uAE4C\uC774\uC11C \uB4E4\uC73C\uBA74 \uC704\uD5D8\uD558\uB2E4."
+        fontIndex: 3
+        fontSize: 36
+    _filterIndex: -1
+    _time: 3
+    _chainIndex: -1
+    _frameIndex: 5
+  - _sprites:
+    - {fileID: 21300000, guid: 78139e26f7f4fdd429d0dfd7feda27cd, type: 3}
+    _raitios:
+    - 0
+    _scale:
+    - {x: 1, y: 1}
+    _context:
+      lang:
+      - text: " - Escape from evil castle - \nCleared the first step of going back
+          home."
+        fontIndex: 3
+        fontSize: 36
+      - text: " - \uB9C8\uC655\uC131 \uD0C8\uCD9C -\n\uC9D1\uC73C\uB85C \uB3CC\uC544\uAC00\uAE30
+          \uC704\uD55C \uAC00\uC7A5 \uCCAB \uB09C\uAD00\uC744 \uB118\uC5C8\uB2E4."
+        fontIndex: 3
+        fontSize: 36
+    _filterIndex: -1
+    _time: 3
+    _chainIndex: -1
+    _frameIndex: 5
+  - _sprites:
+    - {fileID: 21300000, guid: 78139e26f7f4fdd429d0dfd7feda27cd, type: 3}
+    _raitios:
+    - 0
+    _scale:
+    - {x: 1, y: 1}
+    _context:
+      lang:
+      - text: All kinds of dangerous enemies in evil castle. it needs to escape quickly.
+        fontIndex: 3
+        fontSize: 36
+      - text: "\uC628\uAC16 \uC704\uD5D8\uD55C \uC801\uC774 \uB3C4\uC0AC\uB9AC\uB294
+          \uB9C8\uC655\uC131. \uBE60\uB974\uAC8C \uD0C8\uCD9C \uD574\uC57C\uD588\uB2E4."
+        fontIndex: 3
+        fontSize: 36
+    _filterIndex: -1
+    _time: 3
+    _chainIndex: -1
+    _frameIndex: 5
