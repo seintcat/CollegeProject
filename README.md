@@ -40,7 +40,7 @@ vertices, triangles, uvs<br>
 <img src="https://github.com/seintcat/CollegeProject/assets/35403288/fa2cf6b6-c688-4fce-aade-9e9adfe1f015"/><br>
 현재 프로젝트에서는 해당 방법의 pixel perfect 기능을 활용하여 맵 결과물의 그리드 문제를 해결했지만,<br>
 기타 복셀 형식 게임, 계단 모델링 등에서도 비슷한 문제가 발생하는 유니티 자체적 문제로 확인됨(mipmap 오류)<br>
-HLSL의 tex2Dgrad처럼 쉐이더 언어로 밉맵을 그라데이션으로 샘플링하는 코드를 수정해서 해당 오류를 근본적으로 해결 가능<br>
+HLSL의 tex2Dgrad처럼 쉐이더 언어로 밉맵을 그라데이션으로 샘플링하는 코드를 수정해서 해당 오류를 근본적으로 해결 가능(단, 중간에 ddx, ddy처럼 편미분하여 주변값 차이값을 얻어야 함)<br>
 <br>
 <img src="https://github.com/seintcat/CollegeProject/assets/35403288/b3825860-b0f8-4061-a923-bdf94589f9ac"/><br>
 <br>
